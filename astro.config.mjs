@@ -4,7 +4,7 @@ import i18n from "@astrolicious/i18n";
 import sitemap from "@astrojs/sitemap";
 
 export default defineConfig({
-  site: "https://youritaliansite.it", // update with your Italian domain
+  site: "https://annthaisolutionmassage.com/", // update with your Italian domain
   integrations: [
     icon(),
     i18n({

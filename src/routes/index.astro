@@ -43,16 +43,12 @@ const optimizedGalImage6 = await getOptimizedImage(galImage6);
 
 // Import FAQ section image
 import faqImage from "@assets/images/faq.jpg";
-
-// ... your existing optimizations
-
-// Optimize FAQ image
 const optimizedFaqImage = await getOptimizedImage(faqImage);
 
 
 ---
 
-<BaseLayout title={t("home:layout.title")} description={t("home:layout.description")} preloadedImage="">
+<BaseLayout title={t("home:layout.title")} description={t("home:layout.description")} preloadedImage="/assets/images/hero2.webp">
 <!-- ============================================ -->
 <!--                    Hero                      -->
 <!-- ============================================ -->
@@ -1437,7 +1433,7 @@ for (const item of faqItems) {
 @media only screen and (min-width: 0rem) {
     body.dark-mode {
         #gallery-402 {
-            background-color: #230E04;
+            background-color: #09120A;
             .cs-topper {
                 color: var(--primaryLight);
             }
@@ -1824,6 +1820,7 @@ for (const item of faqItems) {
 @media only screen and (min-width: 0rem) {
     body.dark-mode {
         #reviews-727 {
+            background-color: #09120A;
             .cs-title,
             .cs-text,
             .cs-h3,
