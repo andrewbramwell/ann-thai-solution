@@ -3,12 +3,12 @@
     "about": "About",
     "massages": "Massages",
     "contact": "Contact",
-    "theme-label": "Choisissez le thème",
-    "language-label": "Choisissez la langue",
+    "theme-label": "Scegli il tema",
+    "language-label": "Scegli la lingua",
     "languageSelect": {
-        "de": "Deutsch",
-        "en": "English"
-      },
+        "en": "English",
+        "it": "Italian"
+    },
     "themeSelect": {
         "accessibleLabel": "Select Theme",
         "light": "Light",
@@ -24,27 +24,27 @@
     "about-page": {
         "landing": "About",
         "description": "Meet Khun Pui, certified Thai massage therapist trained at Bangkok's Wat Po school. Family-run practice in Wilmersdorf bringing 20+ years expertise.",
-        "topper": "Our Story",
-        "title": "Authentic Thai Healing in the Heart of Berlin",
-        "p-1": "Khun Pui's journey began in Northeast Thailand, where she first discovered her passion for traditional healing arts. After moving to Berlin in 2000, she returned to Thailand to train at the prestigious Wat Po Traditional Medical School in Bangkok - the birthplace of traditional Thai massage. This intensive certification equipped her with authentic techniques passed down through generations of Thai healers.",
-        "p-2": "In September 2025, Anavaree Thai Massage was born as a true family enterprise, named lovingly after Pui's daughter who inspired her return to massage therapy. With over 20 years of experience, Pui works alongside her daughter as co-practitioner, while her supportive husband ensures every aspect runs smoothly. This family approach means every client receives genuine, personal care.",
-        "p-3": "What sets us apart is our commitment to comprehensive therapeutic care. Every treatment begins with a thorough consultation, includes fresh linens and complimentary Thai tea, and ends with personalized aftercare guidance.",
-        "p-4": "We specialize in neck, shoulder, and back conditions, with many clients experiencing significant improvement after just one session.",
+        "topper": "My Story",
+        "title": "From Personal Healing to Professional Calling",
+        "p-1": "I understand chronic pain personally. After experiencing complete recovery through authentic Thai massage therapy, I knew I had to share this powerful healing tradition. Your wellness journey matters because mine changed everything.",
+        "p-2": "Authentic expertise requires serious dedication. I've invested 16+ years studying with Thailand's master practitioners, earning official Ministry of Health certification. Every technique I use honors centuries-old healing wisdom passed through generations.",
+        "p-3": "Every client receives my complete attention and expertise. I listen carefully, assess thoroughly, and apply techniques specifically chosen for your condition. My commitment is simple: providing the same authentic healing that transformed my life.",
+        "p-4": "After experiencing true healing myself, helping others find relief became my life's calling and joy.",
         "rank": "Owner",
         "cta": "Book Treatment",
         "ourStory": {
             "items": [
                 {
-                    "heading": "Our Journey",
-                    "p": "Established in September 2025, our practice represents the culmination of Khun Pui's 20+ year journey from Northeast Thailand to becoming Berlin's trusted Thai massage specialist."
+                    "heading": "Ann's Journey to Italy",
+                    "p": "From experiencing personal healing in Thailand to opening our doors in November 2025, this practice embodies 16 years of dedication. Ann has called Italy home since 2012, bringing authentic Thai wellness to Varese."
                 },
                 {
-                    "heading": "Our Team", 
-                    "p": "We operate as a close-knit family team with two primary practitioners - Khun Pui and her daughter - supported by her husband who handles business operations."
+                    "heading": "Personalized Care Guaranteed", 
+                    "p": "Every session receives Ann's complete attention and expertise. As a solo practitioner, she personally assesses your condition, tailors each treatment, and ensures continuity of care throughout your wellness journey."
                 },
                 {
-                    "heading": "Our Space",
-                    "p": "Our serene practice features four professional massage beds in an aromatherapy environment, complete with private facilities and convenient street parking options."
+                    "heading": "Professional Comfort",
+                    "p": "Our single dedicated treatment room provides absolute privacy and peace. Professional equipment, hospital-grade cleanliness, and convenient free parking options ensure you arrive relaxed and leave rejuvenated."
                 }
             ]
         }

@@ -1,0 +1,28 @@
+{
+    "description": "Prenota il tuo massaggio thailandese a Gazzada Schianno. Terapista certificata, parcheggio gratuito disponibile. Contatta Ann per cure terapeutiche personalizzate.",
+    "landing": "Contatti",
+    "topper": "Contatti",
+    "title": "Siamo Qui per Te",
+    "text": "Hai domande sui nostri trattamenti di massaggio thailandese? Siamo qui per aiutarti con qualsiasi richiesta sui nostri servizi o sulla nostra posizione.",
+    "info": {
+        "phone": {
+            "label": "Telefono"
+        },
+        "hours": {
+            "label": "Orari di Apertura",
+            "value": "Lun: 14-19 | Mar - Sab: 9-13.30, 14.30-19 | Dom: Chiuso"
+        },
+        "address": {
+            "label": "Indirizzo"
+        }
+    },
+    "form": {
+        "title": "Invia Richiesta",
+        "name": "Nome",
+        "email": "Email",
+        "phone": "Telefono",
+        "message": "Messaggio",
+        "messagePlaceholder": "Scrivi la tua richiesta...",
+        "submit": "Invia Messaggio"
+    }
+}

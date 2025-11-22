@@ -4,12 +4,12 @@ import i18n from "@astrolicious/i18n";
 import sitemap from "@astrojs/sitemap";
 
 export default defineConfig({
-  site: "https://anavareethaimassage.de", // update me!
+  site: "https://youritaliansite.it", // update with your Italian domain
   integrations: [
     icon(),
     i18n({
-      defaultLocale: "de",
-      locales: ["de", "en"],
+      defaultLocale: "it",
+      locales: ["it", "en"],
       client: {
         data: true,
         paths: true,
@@ -18,18 +18,19 @@ export default defineConfig({
       pages: {
         "/about": {
           en: "/about",
+          // it: "/chi-siamo", // optional: use Italian slug
         },
         "/massages": {
           en: "/massages",
+          // it: "/massaggi", // optional: use Italian slug
         }
       },
     }),
     sitemap({
       i18n: {
-        defaultLocale: 'de', // All urls that don't contain `en` after "https://www.yourwebsite.com/" will be treated as default locale, i.e. `de`
+        defaultLocale: 'it',
         locales: {
-          // key/value pairs of all languages supported
-          de: 'de-DE', // The `defaultLocale` value must be present in `locales` keys
+          it: 'it-IT',
           en: 'en-US',
         },
       },

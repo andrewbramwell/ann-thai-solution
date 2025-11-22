@@ -1,61 +1,77 @@
 {
 	"layout": {
 		"title": "Massage Therapist",
-		"description": "Authentic Thai massage in Wilmersdorf, Berlin by certified therapist Khun Pui. Traditional healing techniques from Wat Po school. Book your treatment today."
+		"description": "Authentic Thai massage therapy in Gazzada Schianno, Varese. 16+ years expertise, government-licensed. Relief from chronic pain through traditional healing methods."
 	},
 	"hero": {
-        "topper": "Authentic Healing",
-        "title": {
-            "1": "Traditional Thai Massage in Wilmersdorf, Berlin"
-        },
-        "p1": "Welcome to Anavaree Thai Massage, where over 20 years of authentic Thai healing tradition meets personalized care in Berlin. Our certified therapist Khun Pui brings genuine techniques from Thailand's renowned Wat Po school to help you find relief from pain, stress, and tension through time-honored therapeutic massage.",
-        "cta1": "Book Your Treatment"
+    "topper": "Authentic Healing",
+    "title": "Expert Thai Massage Therapy in Gazzada Schianno, Varese",
+    "cta1": "Book Your Treatment"
     },
 	"services": {
-        "topper": "Popular Treatments",
-        "title": "Berlin's Favorite Thai Massage Therapies",
+        "topper": "Our Treatments",
+        "title": "Four Therapeutic Pathways to Pain Relief and Restored Balance",
         "text": "From targeted pain relief to complete relaxation, these authentic Thai massage treatments are chosen by our clients for their proven therapeutic benefits.",
+        "linkText": "Pricing",
         "items": [
             {
+                "heading": "Neck & Shoulder Therapy",
+                "p": "Targeted seated treatment addressing cervical tension, migraines, and upper back pain. Specialized techniques relieve chronic headaches, shoulder stiffness, and work-related neck strain."
+            },
+            {
                 "heading": "Thai Solution Massage",
-                "p": "The 4+1 Thai Solution Massage (Nuad Benja Phakhi) is an advanced therapeutic technique developed by Master Sutep Mevattana of the THAIBOOST Academy. It combines traditional Thai massage, acupuncture, shiatsu, Tui Na, and physiology into a holistic treatment performed without oils or aids. Through acupressure using thumbs, palms, and knees, meridians and trigger points are activated to release energy blockages and alleviate ailments such as pain and migraines. The massage works on tendons, muscles, fascia, nerves, joints, and the skeletal system – while the practitioner cultivates a meditative Mettā state."
+                "p": "Our signature therapeutic treatment combining ancient Sen energy line work with personalized assessment. Using the Benjapakee (Five-Element) system, we address muscular pain, joint issues, nerve tension, and restore your body's natural balance on our professional treatment table."
             },
             {
-                "heading": "Thai Ayuwattana Massage",
-                "p": "The Thai Ayuwattana Massage is a therapeutic healing massage based on the Benja Phakhi 4+1 system for treating headaches, back, shoulder, and joint pain. As a specialized follow-up treatment to the Thai Solution Massage, it serves continuous health care, sustainable wellness management, and long-term pain prevention through regular therapeutic intervention."
+                "heading": "Thai Rud Sen (oil)",
+                "p": "Gentle, rhythmic oil massage following traditional energy meridians using organic Jojoba oil. Perfect for deep relaxation, stress relief, and nervous system restoration. Ideal for those seeking soothing, comfort-focused therapeutic care."
             },
             {
-                "heading": "Traditional Thai Massage",
-                "p": "Enjoy our signature oil-free Thai massage, beginning with energy line work to promote deep relaxation. Your therapist will focus on your specific areas of concern, making this ideal for stress relief and overall wellness."
+                "heading": "Lymphatic Drainage",
+                "p": "Advanced detoxification technique stimulating natural lymphatic flow and circulation. Enhanced with premium Thai herbal oil blend featuring anti-inflammatory and regenerative properties. Reduces swelling, supports immune function, and promotes overall wellness."
             }
         ],
         "cta": "View All Treatments"
     },
 	"whyChoose": {
         "topper": "Why Choose Us",
-        "title": "Why Anavaree Thai Massage?",
-        "text": "Experience the difference that authentic training, personalized care, and genuine Thai heritage make in your healing journey. At Anavaree Thai Massage, we combine traditional techniques passed down through generations with modern therapeutic understanding to deliver results that go beyond ordinary massage. Our family-run approach ensures every client receives individual attention in a welcoming, professional environment.",
+        "title": "Why Clients Trust Ann Thai Solution Massage for Their Wellness Journey",
+        "review": "Every body tells a story through its tension and pain. My role is listening carefully, understanding deeply, and guiding your natural healing process.",
         "items": [
             {
-                "heading": "Personalized Therapeutic Care",
-                "p": "Family-run practice offering thorough consultations, fresh amenities, complimentary Thai tea, and detailed aftercare guidance. Every treatment is tailored to your specific wellness needs."
+                "p": "Over 570 hours of intensive study across Thailand, New Zealand, and UK institutions. Continuous professional development for 16+ years means you benefit from both time-tested traditional techniques and modern therapeutic understanding."
             },
             {
-                "heading": "Certified & Experienced",
-                "p": "Over 20 years of professional experience with authentic certifications from Thailand's most respected massage institutions. Fully insured practice with comprehensive professional liability coverage."
+                "p": "No assistants, no rotating therapists. Ann personally conducts every consultation and treatment, ensuring continuity of care, deep understanding of your unique needs, and consistent therapeutic strategies throughout your wellness journey."
             },
             {
-                "heading": "Authentic Thai Heritage",
-                "p": "Khun Pui brings genuine Thai healing traditions from Northeast Thailand, trained at Bangkok's prestigious Wat Po Traditional Medical School - the birthplace of traditional Thai massage."
+                "p": "Our signature approach combines ancient Sen energy meridian work with personalized assessment. Following traditional wisdom passed down through generations, we restore your body's natural balance and promote genuine healing."
             }
         ]
     },
-	"sideBySide": {
-        "topper": "Our Story",
-        "title": "Meet Khun Pui & Family",
-        "text1": "From Northeast Thailand to Wilmersdorf, Berlin, Khun Pui's journey began with a passion for traditional healing arts. Trained at Bangkok's prestigious Wat Po Traditional Medical School, she brings over 20 years of authentic Thai massage expertise to our practice.",
-        "text2": "In September 2025, Anavaree Thai Massage was born as a true family enterprise, named after Pui's daughter who inspired her return to therapeutic practice. Today, we operate as a close-knit team dedicated to providing genuine healing through time-honored Thai traditions.",
-        "cta": "Read Our Full Story"
+    "featuredService1": {
+    "topper": "Featured Service",
+    "title": "Experience Our Signature Thai Solution Massage Therapy",
+    "text1": "Thai Solution Massage uses the Benjapakee (Five-Element) system to address muscular, nervous, joint, and energetic imbalances. Following ancient Sen energy line wisdom, we identify root causes through your body's natural indicators—tendons and ligaments revealing individual symptoms.",
+    "text2": "Whether you suffer from tension headaches, muscular pain, calf cramps, or joint stiffness, Thai Solution Massage addresses both symptoms and underlying causes. Through expert assessment and personalized treatment, we help your body regenerate and return to natural balance.",
+    "cta": "Thai Solution Massage"
+    },
+    "reviews": {
+        "topper": "Testimonials",
+        "title": "Real People, Real Relief. What Our Clients Experience.",
+        "text": "Don't just take our word for it. Hear directly from clients who've experienced genuine relief and restored balance through our care.",
+        "items": {
+            "0": {
+                "heading": "Finally Found Real Relief",
+                "text": "After years of chronic neck pain from desk work, I was skeptical. But Ann's expertise changed everything. She identified issues I didn't even know I had. Three sessions later, my migraines are gone and I can work without constant tension. Truly life-changing.",
+                "name": "Marco R."
+            },
+            "1": {
+                "heading": "Professional and Effective",
+                "text": "Ann's deep understanding of the body is remarkable. She doesn't just treat symptoms—she finds the root cause. My plantar fasciitis had me limping for months. After her Thai Solution Massage treatments, I'm running again. Worth every euro.",
+                "name": "Elena S."
+            }
+        }
     },
 	"gallery": {
         "topper": "Gallery",
@@ -66,25 +82,26 @@
         "title": "Frequently Asked Questions",
         "items": [
             {
-                "question": "What should I expect during my first visit?",
-                "answer": "Your first visit begins with a thorough consultation to discuss your health history, specific concerns, and treatment goals. We'll explain the chosen treatment and provide all necessary amenities, including disposable undergarments, robes, and slippers. All treatments include complimentary traditional Thai tea and detailed post-massage guidance for optimal benefits."
+                "question": "Is parking available?",
+                "answer": "Yes! We offer three convenient free parking options: 1-hour street parking directly outside, 2-hour parking at the nearby church, or all-day parking at the train station. Your stress-free arrival is guaranteed."
             },
             {
-                "question": "How often should I book treatments?",
-                "answer": "Treatment frequency depends on your individual needs and goals. For general wellness and maintenance, monthly sessions work well. For specific conditions, chronic issues, or pain management, weekly treatments initially may be beneficial. We'll discuss the best schedule during your consultation based on your specific requirements."
+                "question": "Do you speak Italian?",
+                "answer": "Absolutely. Ann is fluent in Italian and has lived in Italy since 2012. Clear communication about your health concerns and treatment needs is essential, and we ensure you feel completely understood throughout your session."
             },
             {
-                "question": "What qualifications does Khun Pui have?",
-                "answer": "Khun Pui holds extensive certifications, including Thai Traditional Massage from the prestigious Wat Po Traditional Medical School in Bangkok, Thailand. She has over 20 years of professional experience and authentic credentials from Thailand's most respected massage institutions. Our practice is fully insured with comprehensive professional liability coverage."
+                "question": "What are Ann's qualifications?",
+                "answer": "Ann holds official Thai Ministry of Public Health certification (#680003080) with 570+ documented training hours from Thailand's premier institutions. She's been continuously practicing and studying since 2009, with specialized training in Thai Solution Massage, aromatherapy, and therapeutic techniques."
             },
             {
-                "question": "Do you offer parking?",
-                "answer": "Yes, we provide paid street parking directly in front of our practice for your convenience. Additionally, complimentary parking is available on nearby streets in Wilmersdorf. Specific free parking locations will be provided when you book your appointment."
+                "question": "What is Thai Solution Massage?",
+                "answer": "Thai Solution Massage is an ancient therapeutic art using the Benjapakee (Five-Element) system to address muscular, nervous, joint, and energetic imbalances. It follows traditional Sen energy lines, identifying root causes through your body's natural indicators for personalized, effective healing."
             },
             {
-                "question": "What payment methods do you accept?",
-                "answer": "Currently, we accept cash payments only. However, we are planning to introduce card payment options in the near future to provide more convenience for our clients. We recommend bringing cash for your treatment session."
+                "question": "What should I wear for my treatment?",
+                "answer": "Wear loose, comfortable clothing that allows unrestricted movement. You'll receive treatment in undergarments only (bra removal required for women to ensure optimal therapeutic access). Complimentary slippers are provided before entering the treatment room."
             }
         ]
     }
+    
 }

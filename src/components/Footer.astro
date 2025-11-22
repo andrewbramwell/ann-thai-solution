@@ -36,7 +36,7 @@ const currentYear = getCurrentYear();
             ))
           }
           <li>
-            <a href={getLocalePath("/impressum")}>{t("Impressum")}</a>
+            <a href={getLocalePath("/thai-solution-massage")}>{t("Thai Solution Massage")}</a>
           </li>
         </ul>
         <ul>
@@ -46,9 +46,8 @@ const currentYear = getCurrentYear();
           <li>
             <a href={getLocalePath("/contact")}>
               {client.address.lineOne}<br />
-              {client.address.lineTwo}<br />
-              {client.address.city}
-              {client.address.state}
+              {client.address.city},
+              {client.address.state},
               {client.address.zip}
             </a>
           </li>
@@ -76,16 +75,17 @@ const currentYear = getCurrentYear();
     #footer {
       font-size: ~"min(4vw, 1.2em)";
       padding: (84/16rem) 0 (20/16rem);
-      background: var(--dark);
+      background: var(--medium);
 
       .left-section {
         text-align: center;
         margin: auto;
         margin-bottom: (50/16rem);
+        
         .logo {
           text-align: center;
           width: auto;
-          height: (96/16em); /* increased from 32/16em by 100% (32 * 2 = 64) */
+          height: (240/16em); /* increased from 32/16em by 100% (32 * 2 = 64) */
           margin: auto;
           margin-bottom: (30/16em);
           display: inline-block;
@@ -152,7 +152,7 @@ const currentYear = getCurrentYear();
                 color: #fff;
                 transition: color 0.3s;
                 &:hover {
-                  color: var(--primary);
+                  color: var(--secondary);
                 }
               }
             }
@@ -169,7 +169,7 @@ const currentYear = getCurrentYear();
                 content: "";
                 width: (97/16rem);
                 height: (2/16rem);
-                background: var(--primary);
+                background: var(--secondary);
                 opacity: 1;
                 display: block;
                 position: absolute;
@@ -209,7 +209,7 @@ const currentYear = getCurrentYear();
         a {
           font-size: (16/16rem);
           text-decoration: none;
-          color: var(--primaryDark);
+          color: var(--secondary);
 
           &:hover {
             text-decoration: underline;
@@ -245,12 +245,12 @@ const currentYear = getCurrentYear();
 
       .left-section {
         text-align: left;
-        width: (409/16rem);
+        width: (120/16rem);
         margin: 0;
 
         .logo {
           text-align: left;
-          height: (120/16em);
+          height: (300/16em);
           margin-left: 0;
         }
 
@@ -287,7 +287,7 @@ const currentYear = getCurrentYear();
                   content: "";
                   width: 0%;
                   height: (2/16rem);
-                  background: var(--primary);
+                  background: var(--secondary);
                   opacity: 1;
                   display: block;
                   position: absolute;
@@ -327,7 +327,7 @@ const currentYear = getCurrentYear();
     body.dark-mode {
       #footer {
         .credit a {
-          color: var(--primaryDark);
+          color: var(--secondary);
         }
       }
     }

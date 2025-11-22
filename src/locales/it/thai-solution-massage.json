@@ -1,0 +1,37 @@
+{
+    "description": "Trattamento terapeutico personalizzato su lettino da massaggio. Sistema Benjapakee che integra guarigione muscolare, nervosa, articolare e spirituale.",
+    "landing": "Thai Solution Massage",
+    "topper": "Antica Saggezza",
+    "title": "La Filosofia del Thai Solution Massage",
+    "p1": "Il Thai Solution Massage è un'arte antica che non si basa su definizioni rigide o teorie scritte, ma piuttosto sulla saggezza tramandata attraverso generazioni di maestri thailandesi.",
+    "p2": "Secondo la tradizione, i tendini e i legamenti che collegano diverse parti del corpo umano fungono da indicatori naturali, rivelando sintomi individuali e squilibri. Queste \"linee\" rappresentano la chiave per comprendere lo stato di salute del corpo e identificare i percorsi terapeutici più efficaci.",
+    "p3": "Sotto queste linee si trovano i canali energetici principali, chiamati anche \"Sen\" nella tradizione thailandese. Questi canali formano il centro del sistema nervoso e sono fondamentali per il benessere generale del corpo.",
+    "p4": "Attraverso una tecnica di massaggio efficace che utilizza pressione e peso corporeo appropriati, è possibile stimolare nervi e tessuti profondi, promuovere un rilassamento profondo, aiutare le aree problematiche del corpo a rigenerarsi e ripristinare l'equilibrio naturale del corpo.",
+    "p5": "Il nostro approccio combina l'antica saggezza con una profonda comprensione delle esigenze individuali di ogni cliente, offrendo un'esperienza terapeutica autentica e personalizzata.",
+    "items": {
+        "0": {
+            "heading": "Emicrania e Cefalea Tensiva",
+            "text": "Tecniche specializzate per alleviare la tensione cervicale e craniale, riducendo frequenza e intensità di emicranie e mal di testa da stress."
+        },
+        "1": {
+            "heading": "Epicondilite (Gomito del Tennista)",
+            "text": "Trattamento mirato per ridurre l'infiammazione dei tendini dell'avambraccio e ripristinare la mobilità del gomito senza dolore."
+        },
+        "2": {
+            "heading": "Dolori Muscolari e Contratture",
+            "text": "Manipolazioni profonde per sciogliere contratture muscolari croniche, migliorare la circolazione e ripristinare la flessibilità naturale."
+        },
+        "3": {
+            "heading": "Artrosi del Ginocchio",
+            "text": "Tecniche delicate per ridurre rigidità articolare, migliorare la mobilità e alleviare il dolore associato all'usura della cartilagine."
+        },
+        "4": {
+            "heading": "Crampi al Polpaccio",
+            "text": "Massaggio terapeutico per rilassare la muscolatura del polpaccio, migliorare la circolazione e prevenire crampi ricorrenti."
+        },
+        "5": {
+            "heading": "Fascite Plantare",
+            "text": "Trattamento specifico per ridurre l'infiammazione del tessuto plantare, alleviare il dolore al tallone e ripristinare la corretta funzione del piede."
+        }
+    }
+}

@@ -1,44 +1,83 @@
 {
     "landing": "Massages",
-    "description": "Traditional Thai massage, hot stone therapy & reflexology in Berlin. Authentic treatments by Wat Po-trained therapist. Relieve pain & restore balance.",
+    "description": "Professional Thai massage treatments in Gazzada Schianno. From targeted pain relief to deep relaxation. Government-certified therapist. Book your session today.",
     "layout": {
         "title": "Authentic Thai Massage Therapy",
         "description": "Experience traditional healing treatments designed to restore balance, relieve tension, and rejuvenate your body and mind."
     },
-    "services": {
-        "topper": "Our Treatments",
-        "title": "Traditional Thai Massage Services",
-        "text": "Discover our range of authentic Thai massage therapies, each carefully crafted to address your specific wellness needs and promote deep relaxation and natural healing.",
+
+    "pricing1": {
+        "topper": "Pricing",
+        "title": "15 Minute Massages",
         "items": [
-            {
-                "heading": "Back, Neck & Shoulder Massage",
-                "p": "Target tension where you need it most with our therapeutic oil massage focusing on your neck, shoulders, and back. Perfect for relieving stress from heavy lifting, shoulder-to-neck pain, or tightness in the shoulder blade area."
-            },
-            {
-                "heading": "Foot Reflexology Massage",
-                "p": "Experience the healing power of reflexology with our specialized treatment using traditional wooden tools. We apply targeted pressure to reflex points from your feet to knees, providing relief for foot pain, swelling, or knee discomfort."
-            },
-            {
-                "heading": "Traditional Thai Massage",
-                "p": "Enjoy our signature oil-free Thai massage, beginning with energy line work to promote deep relaxation. Your therapist will focus on your specific areas of concern, making this ideal for stress relief and overall wellness."
-            },
-            {
-                "heading": "Hot Stone Massage",
-                "p": "Melt away tension with our soothing hot stone therapy. We use carefully heated lava stones at optimal temperatures to enhance relaxation and promote natural healing, helping to release toxins and restore balance."
-            },
-            {
-                "heading": "Thai Solution Massage",
-                "p": "The 4+1 Thai Solution Massage (Nuad Benja Phakhi) is an advanced therapeutic technique developed by Master Sutep Mevattana of the THAIBOOST Academy. It combines traditional Thai massage, acupuncture, shiatsu, Tui Na, and physiology into a holistic treatment performed without oils or aids. Through acupressure using thumbs, palms, and knees, meridians and trigger points are activated to release energy blockages and alleviate ailments such as pain and migraines. The massage works on tendons, muscles, fascia, nerves, joints, and the skeletal system – while the practitioner cultivates a meditative Mettā state."
-            },
-            {
-                "heading": "Thai Ayuwattana Massage",
-                "p": "The Thai Ayuwattana Massage is a therapeutic healing massage based on the Benja Phakhi 4+1 system for treating headaches, back, shoulder, and joint pain. As a specialized follow-up treatment to the Thai Solution Massage, it serves continuous health care, sustainable wellness management, and long-term pain prevention through regular therapeutic intervention."
-            },
-            {
-                "heading": "Aromatherapy Massage",
-                "p": "Unwind with our soothing aromatherapy massage, where carefully selected essential oils meet gentle massage techniques. Each oil is chosen for its unique therapeutic properties to address your specific needs—whether you're seeking stress relief, better sleep, or emotional balance."
-            }
-        ],
-        "cta": "Book Your Treatment"
-    }
+        {
+            "name": "Neck Massage",
+            "description": "Focused seated therapy targeting chronic neck tension, shoulder stiffness, and upper back pain. Perfect for quick relief from work-related cervical strain and tension headaches."
+        }
+        ]
+    },
+    "pricing2": {
+        "topper": "Pricing",
+        "title": "30 Minute Massages",
+        "items": [
+        {
+            "name": "Neck Massage",
+            "description": "Comprehensive seated treatment addressing cervical spine tension, migraines, and shoulder pain. Specialized techniques release deep-seated stress and restore upper body mobility."
+        }
+        ]
+    },
+    "pricing3": {
+        "topper": "Pricing",
+        "title": "60 Minute Massages",
+        "items": [
+        {
+            "name": "Thai Solution Massage",
+            "description": "Our signature therapy using the Benjapakee (Five-Element) system to treat muscular pain, joint stiffness, and nerve tension. Personalized treatment addressing your specific condition and restoring natural balance."
+        },
+        {
+            "name": "Thai Rud Sen (oil)",
+            "description": "Rhythmic oil massage flowing along traditional energy meridians with organic Jojoba oil. Deeply calming treatment ideal for stress relief, nervous system restoration, and complete relaxation."
+        },
+        {
+            "name": "Lymphatic Drainage",
+            "description": "Specialized detoxification technique stimulating lymphatic circulation and immune function. Enhanced with premium Thai herbal oils featuring anti-inflammatory properties. Reduces swelling and promotes natural healing."
+        }
+        ]
+    },
+    "pricing4": {
+        "topper": "Pricing",
+        "title": "90 Minute Massages",
+        "items": [
+        {
+            "name": "Thai Solution Massage",
+            "description": "Extended session allowing deeper work on chronic conditions using our Benjapakee system. Comprehensive treatment integrating muscular release, joint mobilization, nerve therapy, and energetic balancing for profound healing."
+        },
+        {
+            "name": "Thai Rud Sen (oil)",
+            "description": "Luxurious extended oil massage following Sen energy lines with organic Jojoba. Extra time allows deeper relaxation, complete stress dissolution, and thorough restoration of your nervous system equilibrium."
+        },
+        {
+            "name": "Lymphatic Drainage",
+            "description": "Comprehensive detox treatment with extended time for full-body lymphatic stimulation. Premium Thai herbal oil blend enhances circulation, reduces inflammation, supports immunity, and promotes complete system renewal."
+        }
+        ]
+    },
+    "pricing5": {
+        "topper": "Pricing",
+        "title": "120 Minute Massages",
+        "items": [
+        {
+            "name": "Thai Solution Massage",
+            "description": "Ultimate therapeutic experience addressing complex or multiple conditions. Full Benjapakee integration treating muscular, skeletal, nervous, and energetic systems. Maximum time for assessment, treatment, and complete body restoration."
+        },
+        {
+            "name": "Thai Rud Sen (oil)",
+            "description": "Complete restorative journey along all major energy meridians with organic oils. Maximum relaxation and therapeutic benefit. Perfect for severe stress, chronic tension, or when you need profound rejuvenation."
+        },
+        {
+            "name": "Lymphatic Drainage",
+            "description": "Complete full-body detoxification and immune system support. Extended session allows thorough lymphatic stimulation, enhanced with therapeutic Thai herbal oils. Ultimate treatment for inflammation, swelling, and system-wide wellness restoration."
+        }
+    ]
+  }
 }

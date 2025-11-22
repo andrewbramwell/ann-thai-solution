@@ -1,17 +1,19 @@
 {
-	"name": "Anavaree Thai Massage",
+	"name": "Ann Thai Solution Massage",
 	"email": "anavareemassage@gmail.com",
-	"phoneForTel": "+493071056894",
-	"phoneFormatted": "+49 (0)30 7105 6894",
+	"phoneForTel": "393332488151",
+	"phoneFormatted": "+39 333 248 8151",
 	"openingHours": "",
-	"bookingLink": "https://anavareethaimassage.setmore.com/",
+	"bookingLink": "https://annthaisolutionmassage.setmore.com/",
 	"address": {
-		"lineOne": "Brandenburgische Str. 74",
-		"lineTwo": "Wilmersdorf",
-		"city": "Berlin",
-		"state": "",
-		"zip": "10713",
-		"mapLink": "https://maps.app.goo.gl/QFfiUMEEPJZKKp3X6"
+		"lineOne": "Via Roma, 48",
+		"lineTwo": "",
+		"city": "Gazzada Schianno",
+		"state": "VA",
+		"zip": "21045",
+		"mapLink": "https://maps.app.goo.gl/Z8zLCAMdSyaz6cwy9"
 	},
-	"domain": "anavareethaimassage.de"
+	"domain": "https://annthaisolutionmassage.com"
 }
+
+
