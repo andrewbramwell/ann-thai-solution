@@ -69,14 +69,6 @@ const isLandingPage = Astro.url.pathname === "/" || trimmedLocales.includes(trim
 		<link rel="manifest" href="/assets/favicons/site.webmanifest" />
 		<meta name="msapplication-TileColor" content="#da532c" />
 		<meta name="theme-color" content="#ffffff" />
-
-		<!--For home page, use service keywords for the title, including location for SEO.
-        Other pages should just include the page name.
-        
-        EXAMPLE:
-        Home page - House Painting Contractors | Painters and Co. | TestCity, WA
-        About Page - About us | Painters and Co.
-        -->
 		<title>
 			{
 				isLandingPage
