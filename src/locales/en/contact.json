@@ -10,7 +10,7 @@
         },
         "hours": {
             "label": "Opening Hours",
-            "value": "Mon: 2-7pm | Tue - Sat: 9am-1.30pm, 2.30-7pm | Sun: Closed"
+            "value": "Mon: 2.30-7pm | Tue - Sat: 10am-1.30pm, 2.30-7pm | Sun: Closed"
         },
         "address": {
             "label": "Address"
