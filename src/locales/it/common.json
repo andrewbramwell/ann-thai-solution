@@ -54,9 +54,17 @@
         "information": "Informazioni",
         "services": "Trattamenti",
         "contact": "Contatto",
+        "privacyPolicy": "Informativa sulla Privacy",
         "click": "Clicca per inviare email",
         "p": "Contenuto aggiuntivo se necessario, altrimenti puoi eliminare questo intero tag p. Di solito lo faccio anch'io.",
         "credit": "Progettato e codificato a mano da "
+    },
+    "cookiePopup": {
+        "title": "Questo sito utilizza i cookie",
+        "text": "Questo sito utilizza i cookie. Utilizzando il nostro sito web acconsenti a tutti i cookie in conformità con la nostra Politica sui Cookie.",
+        "readMore": "Leggi di più",
+        "policyLink": "/privacy-policy",
+        "accept": "Accetta"
     },
     "notFound": {
         "pageNotFound": "404 - La pagina cercata non esiste.",
