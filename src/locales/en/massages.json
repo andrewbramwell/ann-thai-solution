@@ -41,6 +41,10 @@
         {
             "name": "Lymphatic Drainage",
             "description": "Specialized detoxification technique stimulating lymphatic circulation and immune function. Enhanced with premium Thai herbal oils featuring anti-inflammatory properties. Reduces swelling and promotes natural renewal."
+        },
+        {
+            "name": "Hot Stone Massage",
+            "description": "Luxurious treatment combining heated volcanic stones with skilled massage techniques. The warmth penetrates deep into muscles, releasing chronic tension while promoting profound relaxation. Enhanced circulation and energy flow restore natural balance and inner calm."
         }
         ]
     },
@@ -59,6 +63,10 @@
         {
             "name": "Lymphatic Drainage",
             "description": "Comprehensive detox treatment with extended time for full-body lymphatic stimulation. Premium Thai herbal oil blend enhances circulation, reduces inflammation, supports immunity, and promotes complete system renewal."
+        },
+        {
+            "name": "Hot Stone Massage",
+            "description": "Luxurious treatment combining heated volcanic stones with skilled massage techniques. The warmth penetrates deep into muscles, releasing chronic tension while promoting profound relaxation. Enhanced circulation and energy flow restore natural balance and inner calm."
         }
         ]
     },
@@ -77,6 +85,10 @@
         {
             "name": "Lymphatic Drainage",
             "description": "Complete full-body detoxification and immune system support. Extended session allows thorough lymphatic stimulation, enhanced with Thai herbal oils. Ultimate treatment for inflammation, swelling, and system-wide wellness restoration."
+        },
+        {
+            "name": "Hot Stone Massage",
+            "description": "Luxurious treatment combining heated volcanic stones with skilled massage techniques. The warmth penetrates deep into muscles, releasing chronic tension while promoting profound relaxation. Enhanced circulation and energy flow restore natural balance and inner calm."
         }
     ]
   }

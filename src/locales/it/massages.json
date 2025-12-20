@@ -41,6 +41,10 @@
         {
             "name": "Drenaggio Linfatico",
             "description": "Tecnica specializzata di detossificazione che stimola circolazione linfatica e funzione immunitaria. Potenziato con oli erboristici thailandesi premium dalle proprietà antinfiammatorie. Riduce gonfiori e promuove rinnovamento naturale."
+        },
+        {
+            "name": "Massaggio Hot Stone",
+            "description": "Trattamento lussuoso che combina pietre vulcaniche riscaldate con tecniche di massaggio esperte. Il calore penetra in profondità nei muscoli, rilasciando tensioni croniche mentre promuove un rilassamento profondo. Circolazione e flusso energetico migliorati ripristinano equilibrio naturale e calma interiore."
         }
         ]
     },
@@ -59,6 +63,10 @@
         {
             "name": "Drenaggio Linfatico",
             "description": "Trattamento detox completo con tempo esteso per stimolazione linfatica di tutto il corpo. La miscela premium di oli erboristici thailandesi migliora circolazione, riduce infiammazione, rinforza immunità e promuove rinnovamento completo del sistema."
+        },
+        {
+            "name": "Massaggio Hot Stone",
+            "description": "Trattamento lussuoso che combina pietre vulcaniche riscaldate con tecniche di massaggio esperte. Il calore penetra in profondità nei muscoli, rilasciando tensioni croniche mentre promuove un rilassamento profondo. Circolazione e flusso energetico migliorati ripristinano equilibrio naturale e calma interiore."
         }
         ]
     },
@@ -77,6 +85,10 @@
         {
             "name": "Drenaggio Linfatico",
             "description": "Detossificazione completa di tutto il corpo e supporto del sistema immunitario. Seduta estesa permette stimolazione linfatica approfondita, potenziata con oli erboristici thailandesi. Trattamento supremo per infiammazione, gonfiori e ripristino del benessere sistemico."
+        },
+        {
+            "name": "Massaggio Hot Stone",
+            "description": "Trattamento lussuoso che combina pietre vulcaniche riscaldate con tecniche di massaggio esperte. Il calore penetra in profondità nei muscoli, rilasciando tensioni croniche mentre promuove un rilassamento profondo. Circolazione e flusso energetico migliorati ripristinano equilibrio naturale e calma interiore."
         }
     ]
   }
