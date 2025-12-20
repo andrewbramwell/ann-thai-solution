@@ -24,24 +24,24 @@
     },
     "about-page": {
         "landing": "Chi Sono",
-        "description": "Incontra Ann, terapista certificata di massaggio thailandese formata nelle più prestigiose istituzioni della Thailandia. Studio professionale a Gazzada Schianno con oltre 16 anni di esperienza.",
+        "description": "Incontra Ann, operatrice certificata di massaggio thailandese formata nelle più prestigiose istituzioni della Thailandia. Studio professionale a Gazzada Schianno con oltre 16 anni di esperienza.",
         "topper": "La Mia Storia",
-        "title": "Da Guarigione Personale a Vocazione Professionale",
-        "p-1": "Comprendo il dolore cronico personalmente. Dopo aver sperimentato una completa guarigione attraverso l'autentico massaggio thailandese, sapevo di dover condividere questa potente tradizione curativa. Il tuo percorso di benessere conta perché il mio ha cambiato tutto.",
-        "p-2": "L'autentica competenza richiede dedizione seria. Ho investito oltre 16 anni studiando con i maestri praticanti della Thailandia, ottenendo la certificazione ufficiale del Ministero della Salute. Ogni tecnica che utilizzo onora la saggezza curativa secolare tramandata attraverso generazioni.",
-        "p-3": "Ogni cliente riceve la mia completa attenzione ed esperienza. Ascolto con cura, valuto approfonditamente e applico tecniche scelte specificamente per la tua condizione. Il mio impegno è semplice: fornire la stessa guarigione autentica che ha trasformato la mia vita.",
-        "p-4": "Dopo aver sperimentato la vera guarigione io stessa, aiutare gli altri a trovare sollievo è diventato la mia vocazione e la mia gioia.",
+        "title": "Da Esperienza Personale a Vocazione Professionale",
+        "p-1": "Comprendo il dolore cronico personalmente. Dopo aver sperimentato un completo rinnovamento attraverso l'autentico massaggio thailandese, sapevo di dover condividere questa potente tradizione. Il tuo percorso di benessere conta perché il mio ha cambiato tutto.",
+        "p-2": "L'autentica competenza richiede dedizione seria. Ho investito oltre 16 anni studiando con i maestri praticanti della Thailandia, ottenendo la certificazione ufficiale del Ministero della Salute. Ogni tecnica che utilizzo onora la saggezza secolare tramandata attraverso generazioni.",
+        "p-3": "Ogni cliente riceve la mia completa attenzione ed esperienza. Ascolto con cura, valuto approfonditamente e applico tecniche scelte specificamente per la tua condizione. Il mio impegno è semplice: fornire lo stesso autentico benessere che ha trasformato la mia vita.",
+        "p-4": "Dopo aver sperimentato un vero rinnovamento io stessa, aiutare gli altri a trovare sollievo è diventato la mia vocazione e la mia gioia.",
         "rank": "Fondatrice",
         "cta": "Prenota Trattamento",
         "ourStory": {
             "items": [
                 {
                     "heading": "Il Percorso di Ann in Italia",
-                    "p": "Dall'esperienza di guarigione personale in Thailandia all'apertura del nostro centro a novembre 2025, questa pratica incarna 16 anni di dedizione. Ann ha fatto dell'Italia la sua casa dal 2012, portando l'autentico benessere thailandese a Varese."
+                    "p": "Dall'esperienza personale di rinnovamento in Thailandia all'apertura del nostro centro a novembre 2025, questa pratica incarna 16 anni di dedizione. Ann ha fatto dell'Italia la sua casa dal 2012, portando l'autentico benessere thailandese a Varese."
                 },
                 {
                     "heading": "Cura Personalizzata Garantita", 
-                    "p": "Ogni seduta riceve l'attenzione completa e l'esperienza di Ann. Come professionista indipendente, valuta personalmente la tua condizione, personalizza ogni trattamento e garantisce continuità nelle cure durante tutto il tuo percorso di benessere."
+                    "p": "Ogni seduta riceve l'attenzione completa e l'esperienza di Ann. Come professionista indipendente, valuta personalmente la tua condizione, personalizza ogni trattamento e garantisce continuità durante tutto il tuo percorso di benessere."
                 },
                 {
                     "heading": "Comfort Professionale",
@@ -55,6 +55,8 @@
         "services": "Trattamenti",
         "contact": "Contatto",
         "privacyPolicy": "Informativa sulla Privacy",
+        "legal": "Note Legali",
+        "terms": "Termini e Condizioni",
         "click": "Clicca per inviare email",
         "p": "Contenuto aggiuntivo se necessario, altrimenti puoi eliminare questo intero tag p. Di solito lo faccio anch'io.",
         "credit": "Progettato e codificato a mano da "

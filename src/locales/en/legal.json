@@ -1,0 +1,38 @@
+{
+  "landing": {
+    "title": "Legal Notice",
+    "description": "Legal information and company details for Ann Thai Solution Massage."
+  },
+  "content": {
+    "h1": "Legal Notice",
+    "company": {
+      "heading": "Company Information",
+      "businessName": "Business Name:",
+      "address": "Registered Address:",
+      "vat": "VAT Number (Partita IVA):",
+      "taxCode": "Tax Code (Codice Fiscale):",
+      "rea": "REA Number:"
+    },
+    "contact": {
+      "heading": "Contact Information",
+      "email": "Email:",
+      "phone": "Phone:"
+    },
+    "ownership": {
+      "heading": "Intellectual Property",
+      "text": "All content on this website, including text, images, graphics, logos, and design elements, is the property of Ann Thai Solution Massage and is protected by Italian and international copyright laws. Unauthorized use, reproduction, or distribution of any materials from this website is strictly prohibited without prior written consent."
+    },
+    "liability": {
+      "heading": "Limitation of Liability",
+      "text": "While we strive to ensure the accuracy and reliability of information on this website, Ann Thai Solution Massage makes no warranties or representations regarding the completeness, accuracy, or availability of the website or its content. We shall not be liable for any damages arising from the use of or inability to use this website, including but not limited to direct, indirect, incidental, or consequential damages."
+    },
+    "links": {
+      "heading": "External Links",
+      "text": "This website may contain links to third-party websites for your convenience. We do not control or endorse these external sites and are not responsible for their content, privacy practices, or availability. Accessing external links is at your own risk."
+    },
+    "law": {
+      "heading": "Applicable Law and Jurisdiction",
+      "text": "This legal notice and all matters relating to this website are governed by Italian law. Any disputes arising from the use of this website shall be subject to the exclusive jurisdiction of the courts of Varese, Italy."
+    }
+  }
+}

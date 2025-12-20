@@ -1,9 +1,9 @@
 {
     "landing": "Massages",
-    "description": "Professional Thai massage treatments in Gazzada Schianno. From targeted pain relief to deep relaxation. Government-certified therapist. Book your session today.",
+    "description": "Professional Thai massage treatments in Gazzada Schianno. From targeted relief to deep relaxation. Government-certified practitioner. Book your session today.",
     "layout": {
-        "title": "Authentic Thai Massage Therapy",
-        "description": "Experience traditional healing treatments designed to restore balance, relieve tension, and rejuvenate your body and mind."
+        "title": "Authentic Thai Massage",
+        "description": "Experience traditional treatments designed to restore balance, relieve tension, and rejuvenate your body and mind."
     },
 
     "pricing1": {
@@ -12,7 +12,7 @@
         "items": [
         {
             "name": "Neck Massage",
-            "description": "Focused seated therapy targeting chronic neck tension, shoulder stiffness, and upper back pain. Perfect for quick relief from work-related cervical strain and tension headaches."
+            "description": "Focused seated treatment targeting chronic neck tension, shoulder stiffness, and upper back pain. Perfect for quick relief from work-related cervical strain and tension headaches."
         }
         ]
     },
@@ -32,7 +32,7 @@
         "items": [
         {
             "name": "Thai Solution Massage",
-            "description": "Our signature therapy using the Benjapakee (Five-Element) system to treat muscular pain, joint stiffness, and nerve tension. Personalized treatment addressing your specific condition and restoring natural balance."
+            "description": "Our signature treatment using the Benjapakee (Five-Element) system to work on muscular pain, joint stiffness, and nerve tension. Personalized treatment addressing your specific condition and restoring natural balance."
         },
         {
             "name": "Thai Rud Sen (oil)",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Lymphatic Drainage",
-            "description": "Specialized detoxification technique stimulating lymphatic circulation and immune function. Enhanced with premium Thai herbal oils featuring anti-inflammatory properties. Reduces swelling and promotes natural healing."
+            "description": "Specialized detoxification technique stimulating lymphatic circulation and immune function. Enhanced with premium Thai herbal oils featuring anti-inflammatory properties. Reduces swelling and promotes natural renewal."
         }
         ]
     },
@@ -50,7 +50,7 @@
         "items": [
         {
             "name": "Thai Solution Massage",
-            "description": "Extended session allowing deeper work on chronic conditions using our Benjapakee system. Comprehensive treatment integrating muscular release, joint mobilization, nerve therapy, and energetic balancing for profound healing."
+            "description": "Extended session allowing deeper work on chronic conditions using our Benjapakee system. Comprehensive treatment integrating muscular release, joint mobilization, work on the nervous system, and energetic balancing for profound renewal."
         },
         {
             "name": "Thai Rud Sen (oil)",
@@ -68,15 +68,15 @@
         "items": [
         {
             "name": "Thai Solution Massage",
-            "description": "Ultimate therapeutic experience addressing complex or multiple conditions. Full Benjapakee integration treating muscular, skeletal, nervous, and energetic systems. Maximum time for assessment, treatment, and complete body restoration."
+            "description": "Complete experience addressing complex or multiple conditions. Full Benjapakee integration working on muscular, skeletal, nervous, and energetic systems. Maximum time for assessment, treatment, and complete body restoration."
         },
         {
             "name": "Thai Rud Sen (oil)",
-            "description": "Complete restorative journey along all major energy meridians with organic oils. Maximum relaxation and therapeutic benefit. Perfect for severe stress, chronic tension, or when you need profound rejuvenation."
+            "description": "Complete restorative journey along all major energy meridians with organic oils. Maximum relaxation and wellness benefit. Perfect for severe stress, chronic tension, or when you need profound rejuvenation."
         },
         {
             "name": "Lymphatic Drainage",
-            "description": "Complete full-body detoxification and immune system support. Extended session allows thorough lymphatic stimulation, enhanced with therapeutic Thai herbal oils. Ultimate treatment for inflammation, swelling, and system-wide wellness restoration."
+            "description": "Complete full-body detoxification and immune system support. Extended session allows thorough lymphatic stimulation, enhanced with Thai herbal oils. Ultimate treatment for inflammation, swelling, and system-wide wellness restoration."
         }
     ]
   }

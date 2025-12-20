@@ -1,9 +1,9 @@
 {
     "landing": "Massaggi",
-    "description": "Trattamenti professionali di massaggio thailandese a Gazzada Schianno. Dal sollievo mirato al relax profondo. Terapista certificata dal governo. Prenota ora.",
+    "description": "Trattamenti professionali di massaggio thailandese a Gazzada Schianno. Dal sollievo mirato al relax profondo. Operatrice certificata dal governo. Prenota ora.",
     "layout": {
         "title": "Massaggio Thailandese Autentico",
-        "description": "Scopri trattamenti tradizionali di guarigione progettati per ripristinare l'equilibrio, alleviare le tensioni e rigenerare corpo e mente."
+        "description": "Scopri trattamenti tradizionali progettati per ripristinare l'equilibrio, alleviare le tensioni e rigenerare corpo e mente."
     },
 
     "pricing1": {
@@ -12,7 +12,7 @@
         "items": [
         {
             "name": "Massaggio Collo",
-            "description": "Terapia mirata da seduti per tensioni croniche al collo, rigidità alle spalle e dolore alla parte alta della schiena. Perfetto per sollievo rapido da tensioni cervicali lavorative e mal di testa da stress."
+            "description": "Trattamento mirato da seduti per tensioni croniche al collo, rigidità alle spalle e dolore alla parte alta della schiena. Perfetto per sollievo rapido da tensioni cervicali lavorative e mal di testa da stress."
         }
         ]
     },
@@ -32,7 +32,7 @@
         "items": [
         {
             "name": "Thai Solution Massage",
-            "description": "La nostra terapia distintiva che utilizza il sistema Benjapakee (Cinque Elementi) per trattare dolori muscolari, rigidità articolare e tensioni nervose. Trattamento personalizzato per la tua condizione specifica che ripristina l'equilibrio naturale."
+            "description": "Il nostro trattamento distintivo che utilizza il sistema Benjapakee (Cinque Elementi) per lavorare su dolori muscolari, rigidità articolare e tensioni nervose. Trattamento personalizzato per la tua condizione specifica che ripristina l'equilibrio naturale."
         },
         {
             "name": "Thai Rud Sen (con olio)",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Drenaggio Linfatico",
-            "description": "Tecnica specializzata di detossificazione che stimola circolazione linfatica e funzione immunitaria. Potenziato con oli erboristici thailandesi premium dalle proprietà antinfiammatorie. Riduce gonfiori e promuove guarigione naturale."
+            "description": "Tecnica specializzata di detossificazione che stimola circolazione linfatica e funzione immunitaria. Potenziato con oli erboristici thailandesi premium dalle proprietà antinfiammatorie. Riduce gonfiori e promuove rinnovamento naturale."
         }
         ]
     },
@@ -50,7 +50,7 @@
         "items": [
         {
             "name": "Thai Solution Massage",
-            "description": "Seduta estesa che permette lavoro più profondo su condizioni croniche usando il nostro sistema Benjapakee. Trattamento completo che integra rilascio muscolare, mobilizzazione articolare, terapia nervosa e riequilibrio energetico per guarigione profonda."
+            "description": "Seduta estesa che permette lavoro più profondo su condizioni croniche usando il nostro sistema Benjapakee. Trattamento completo che integra rilascio muscolare, mobilizzazione articolare, lavoro sul sistema nervoso e riequilibrio energetico per rinnovamento profondo."
         },
         {
             "name": "Thai Rud Sen (con olio)",
@@ -68,15 +68,15 @@
         "items": [
         {
             "name": "Thai Solution Massage",
-            "description": "Esperienza terapeutica suprema per condizioni complesse o multiple. Integrazione completa Benjapakee che tratta sistemi muscolari, scheletrici, nervosi ed energetici. Tempo massimo per valutazione, trattamento e ripristino totale del corpo."
+            "description": "Esperienza completa per condizioni complesse o multiple. Integrazione completa Benjapakee che lavora sui sistemi muscolari, scheletrici, nervosi ed energetici. Tempo massimo per valutazione, trattamento e ripristino totale del corpo."
         },
         {
             "name": "Thai Rud Sen (con olio)",
-            "description": "Viaggio rigenerante completo lungo tutti i principali meridiani energetici con oli biologici. Massimo rilassamento e beneficio terapeutico. Perfetto per stress severo, tensione cronica o quando hai bisogno di rigenerazione profonda."
+            "description": "Viaggio rigenerante completo lungo tutti i principali meridiani energetici con oli biologici. Massimo rilassamento e beneficio per il benessere. Perfetto per stress severo, tensione cronica o quando hai bisogno di rigenerazione profonda."
         },
         {
             "name": "Drenaggio Linfatico",
-            "description": "Detossificazione completa di tutto il corpo e supporto del sistema immunitario. Seduta estesa permette stimolazione linfatica approfondita, potenziata con oli erboristici thailandesi terapeutici. Trattamento supremo per infiammazione, gonfiori e ripristino del benessere sistemico."
+            "description": "Detossificazione completa di tutto il corpo e supporto del sistema immunitario. Seduta estesa permette stimolazione linfatica approfondita, potenziata con oli erboristici thailandesi. Trattamento supremo per infiammazione, gonfiori e ripristino del benessere sistemico."
         }
     ]
   }

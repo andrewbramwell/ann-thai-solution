@@ -1,6 +1,6 @@
 {
 	"name": "Ann Thai Solution Massage",
-	"email": "anavareemassage@gmail.com",
+	"email": "annthaisolutionmassage@gmail.com",
 	"phoneForTel": "393332488151",
 	"phoneFormatted": "+39 333 248 8151",
 	"openingHours": "",
@@ -13,7 +13,10 @@
 		"zip": "21045",
 		"mapLink": "https://maps.app.goo.gl/Z8zLCAMdSyaz6cwy9"
 	},
-	"domain": "https://annthaisolutionmassage.com"
+	"domain": "https://annthaisolutionmassage.com",
+	"vatNumber": "04096280120",
+	"taxCode": "[Your Codice Fiscale]",
+	"bookingPlatform": "Setmore"
 }
 
 

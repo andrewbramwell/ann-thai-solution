@@ -23,24 +23,24 @@
     },
     "about-page": {
         "landing": "About",
-        "description": "Meet Khun Pui, certified Thai massage therapist trained at Bangkok's Wat Po school. Family-run practice in Wilmersdorf bringing 20+ years expertise.",
+        "description": "Meet Ann, certified Thai massage practitioner trained at Thailand's premier institutions. Professional practice in Gazzada Schianno with 16+ years expertise.",
         "topper": "My Story",
-        "title": "From Personal Healing to Professional Calling",
-        "p-1": "I understand chronic pain personally. After experiencing complete recovery through authentic Thai massage therapy, I knew I had to share this powerful healing tradition. Your wellness journey matters because mine changed everything.",
-        "p-2": "Authentic expertise requires serious dedication. I've invested 16+ years studying with Thailand's master practitioners, earning official Ministry of Health certification. Every technique I use honors centuries-old healing wisdom passed through generations.",
-        "p-3": "Every client receives my complete attention and expertise. I listen carefully, assess thoroughly, and apply techniques specifically chosen for your condition. My commitment is simple: providing the same authentic healing that transformed my life.",
-        "p-4": "After experiencing true healing myself, helping others find relief became my life's calling and joy.",
+        "title": "From Personal Experience to Professional Calling",
+        "p-1": "I understand chronic pain personally. After experiencing complete renewal through authentic Thai massage, I knew I had to share this powerful tradition. Your wellness journey matters because mine changed everything.",
+        "p-2": "Authentic expertise requires serious dedication. I've invested 16+ years studying with Thailand's master practitioners, earning official Ministry of Health certification. Every technique I use honors centuries-old wisdom passed through generations.",
+        "p-3": "Every client receives my complete attention and expertise. I listen carefully, assess thoroughly, and apply techniques specifically chosen for your condition. My commitment is simple: providing the same authentic wellness that transformed my life.",
+        "p-4": "After experiencing true renewal myself, helping others find relief became my life's calling and joy.",
         "rank": "Owner",
         "cta": "Book Treatment",
         "ourStory": {
             "items": [
                 {
                     "heading": "Ann's Journey to Italy",
-                    "p": "From experiencing personal healing in Thailand to opening our doors in November 2025, this practice embodies 16 years of dedication. Ann has called Italy home since 2012, bringing authentic Thai wellness to Varese."
+                    "p": "From experiencing personal renewal in Thailand to opening our doors in November 2025, this practice embodies 16 years of dedication. Ann has called Italy home since 2012, bringing authentic Thai wellness to Varese."
                 },
                 {
                     "heading": "Personalized Care Guaranteed", 
-                    "p": "Every session receives Ann's complete attention and expertise. As a solo practitioner, she personally assesses your condition, tailors each treatment, and ensures continuity of care throughout your wellness journey."
+                    "p": "Every session receives Ann's complete attention and expertise. As a solo practitioner, she personally assesses your condition, tailors each treatment, and ensures continuity throughout your wellness journey."
                 },
                 {
                     "heading": "Professional Comfort",
@@ -54,6 +54,8 @@
         "services": "Services",
         "contact": "Contact",
         "privacyPolicy": "Privacy Policy",
+        "legal": "Legal Notice",
+        "terms": "Terms & Conditions",
         "click": "Click to email",
         "p": "Extra content if you need it, if not you can delete this whole p tag. I usually do.",
         "credit": "Designed and Hand Coded by "

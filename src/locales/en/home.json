@@ -1,107 +1,106 @@
 {
 	"layout": {
-		"title": "Massage Therapist",
-		"description": "Authentic Thai massage therapy in Gazzada Schianno, Varese. 16+ years expertise, government-licensed. Relief from chronic pain through traditional healing methods."
+		"title": "Professional Thai Massage",
+		"description": "Authentic Thai massage in Gazzada Schianno, Varese. 16+ years expertise, government-certified practitioner. Natural relief through traditional methods."
 	},
 	"hero": {
-    "topper": "Authentic Healing",
-    "title": "Expert Thai Massage Therapy in Gazzada Schianno, Varese",
-    "cta1": "Book Your Treatment"
-    },
+		"topper": "Authentic Wellness",
+		"title": "Professional Thai Massage in Gazzada Schianno, Varese",
+		"cta1": "Book Your Session"
+	},
 	"services": {
-        "topper": "Our Treatments",
-        "title": "Four Therapeutic Pathways to Pain Relief and Restored Balance",
-        "text": "From targeted pain relief to complete relaxation, these authentic Thai massage treatments are chosen by our clients for their proven therapeutic benefits.",
-        "linkText": "Pricing",
-        "items": [
-            {
-                "heading": "Neck & Shoulder Therapy",
-                "p": "Targeted seated treatment addressing cervical tension, migraines, and upper back pain. Specialized techniques relieve chronic headaches, shoulder stiffness, and work-related neck strain."
-            },
-            {
-                "heading": "Thai Solution Massage",
-                "p": "Our signature therapeutic treatment combining ancient Sen energy line work with personalized assessment. Using the Benjapakee (Five-Element) system, we address muscular pain, joint issues, nerve tension, and restore your body's natural balance on our professional treatment table."
-            },
-            {
-                "heading": "Thai Rud Sen (oil)",
-                "p": "Gentle, rhythmic oil massage following traditional energy meridians using organic Jojoba oil. Perfect for deep relaxation, stress relief, and nervous system restoration. Ideal for those seeking soothing, comfort-focused therapeutic care."
-            },
-            {
-                "heading": "Lymphatic Drainage",
-                "p": "Advanced detoxification technique stimulating natural lymphatic flow and circulation. Enhanced with premium Thai herbal oil blend featuring anti-inflammatory and regenerative properties. Reduces swelling, supports immune function, and promotes overall wellness."
-            }
-        ],
-        "cta": "View All Treatments"
-    },
+		"topper": "Our Treatments",
+		"title": "Four Specialized Pathways to Relief and Restored Balance",
+		"text": "From targeted relief to complete relaxation, these authentic Thai massage treatments are chosen by our clients for their proven wellness benefits.",
+		"linkText": "Pricing",
+		"items": [
+			{
+				"heading": "Neck & Shoulder Massage",
+				"p": "Targeted seated treatment addressing cervical tension, migraines, and upper back pain. Specialized techniques relieve chronic headaches, shoulder stiffness, and work-related neck strain."
+			},
+			{
+				"heading": "Thai Solution Massage",
+				"p": "Our signature treatment combining ancient Sen energy line work with personalized assessment. Using the Benjapakee (Five-Element) system, we work on muscular pain, joint issues, nerve tension, and restore your body's natural balance on our professional treatment table."
+			},
+			{
+				"heading": "Thai Rud Sen (oil)",
+				"p": "Gentle, rhythmic oil massage following traditional energy meridians using organic Jojoba oil. Perfect for deep relaxation, stress relief, and nervous system restoration. Ideal for those seeking soothing, comfort-focused care."
+			},
+			{
+				"heading": "Lymphatic Drainage",
+				"p": "Advanced detoxification technique stimulating natural lymphatic flow and circulation. Enhanced with premium Thai herbal oil blend featuring anti-inflammatory and regenerative properties. Reduces swelling, supports immune function, and promotes overall wellness."
+			}
+		],
+		"cta": "View All Treatments"
+	},
 	"whyChoose": {
-        "topper": "Why Choose Us",
-        "title": "Why Clients Trust Ann Thai Solution Massage for Their Wellness Journey",
-        "review": "Every body tells a story through its tension and pain. My role is listening carefully, understanding deeply, and guiding your natural healing process.",
-        "items": [
-            {
-                "p": "Over 570 hours of intensive study across Thailand, New Zealand, and UK institutions. Continuous professional development for 16+ years means you benefit from both time-tested traditional techniques and modern therapeutic understanding."
-            },
-            {
-                "p": "No assistants, no rotating therapists. Ann personally conducts every consultation and treatment, ensuring continuity of care, deep understanding of your unique needs, and consistent therapeutic strategies throughout your wellness journey."
-            },
-            {
-                "p": "Our signature approach combines ancient Sen energy meridian work with personalized assessment. Following traditional wisdom passed down through generations, we restore your body's natural balance and promote genuine healing."
-            }
-        ]
-    },
-    "featuredService1": {
-    "topper": "Featured Service",
-    "title": "Experience Our Signature Thai Solution Massage Therapy",
-    "text1": "Thai Solution Massage uses the Benjapakee (Five-Element) system to address muscular, nervous, joint, and energetic imbalances. Following ancient Sen energy line wisdom, we identify root causes through your body's natural indicators—tendons and ligaments revealing individual symptoms.",
-    "text2": "Whether you suffer from tension headaches, muscular pain, calf cramps, or joint stiffness, Thai Solution Massage addresses both symptoms and underlying causes. Through expert assessment and personalized treatment, we help your body regenerate and return to natural balance.",
-    "cta": "Thai Solution Massage"
-    },
-    "reviews": {
-        "topper": "Testimonials",
-        "title": "Real People, Real Relief. What Our Clients Experience.",
-        "text": "Don't just take our word for it. Hear directly from clients who've experienced genuine relief and restored balance through our care.",
-        "items": {
-            "0": {
-                "heading": "Finally Found Real Relief",
-                "text": "After years of chronic neck pain from desk work, I was skeptical. But Ann's expertise changed everything. She identified issues I didn't even know I had. Three sessions later, my migraines are gone and I can work without constant tension. Truly life-changing.",
-                "name": "Marco R."
-            },
-            "1": {
-                "heading": "Professional and Effective",
-                "text": "Ann's deep understanding of the body is remarkable. She doesn't just treat symptoms—she finds the root cause. My plantar fasciitis had me limping for months. After her Thai Solution Massage treatments, I'm running again. Worth every euro.",
-                "name": "Elena S."
-            }
-        }
-    },
+		"topper": "Why Choose Us",
+		"title": "Why Clients Trust Ann Thai Solution Massage for Their Wellness Journey",
+		"review": "Every body tells a story through its tension and pain. My role is listening carefully, understanding deeply, and guiding your natural rebalancing process.",
+		"items": [
+			{
+				"p": "Over 570 hours of intensive study across Thailand, New Zealand, and UK institutions. Continuous professional development for 16+ years means you benefit from both time-tested traditional techniques and modern understanding of the body."
+			},
+			{
+				"p": "No assistants, no rotating practitioners. Ann personally conducts every consultation and treatment, ensuring continuity of sessions, deep understanding of your unique needs, and consistent personalized approaches throughout your wellness journey."
+			},
+			{
+				"p": "Our signature approach combines ancient Sen energy meridian work with personalized assessment. Following traditional wisdom passed down through generations, we restore your body's natural balance and promote genuine renewal."
+			}
+		]
+	},
+	"featuredService1": {
+		"topper": "Featured Service",
+		"title": "Experience Our Signature Thai Solution Massage",
+		"text1": "Thai Solution Massage uses the Benjapakee (Five-Element) system to work on muscular, nervous, joint, and energetic imbalances. Following ancient Sen energy line wisdom, we identify areas of tension through your body's natural indicators—tendons and ligaments revealing individual patterns.",
+		"text2": "Whether you suffer from tension headaches, muscular pain, calf cramps, or joint stiffness, Thai Solution Massage addresses both symptoms and underlying causes. Through expert assessment and personalized treatment, we help your body regenerate and return to natural balance.",
+		"cta": "Thai Solution Massage"
+	},
+	"reviews": {
+		"topper": "Testimonials",
+		"title": "Real People, Real Relief. What Our Clients Experience.",
+		"text": "Don't just take our word for it. Hear directly from clients who've experienced genuine relief and restored balance through our treatments.",
+		"items": {
+			"0": {
+				"heading": "Finally Found Real Relief",
+				"text": "After years of chronic neck pain from desk work, I was skeptical. But Ann's expertise changed everything. She identified tensions I didn't even know I had. Three sessions later, my migraines are gone and I can work without constant tension. Truly life-changing.",
+				"name": "Marco R."
+			},
+			"1": {
+				"heading": "Professional and Effective",
+				"text": "Ann's deep understanding of the body is remarkable. She doesn't just work on symptoms—she finds the root cause. My plantar fasciitis had me limping for months. After her Thai Solution Massage treatments, I'm running again. Worth every euro.",
+				"name": "Elena S."
+			}
+		}
+	},
 	"gallery": {
-        "topper": "Gallery",
-        "title": "Step Inside Anavaree Thai Massage"
-    },
+		"topper": "Gallery",
+		"title": "Step Inside Ann Thai Solution Massage"
+	},
 	"faq": {
-        "topper": "FAQ's",
-        "title": "Frequently Asked Questions",
-        "items": [
-            {
-                "question": "Is parking available?",
-                "answer": "Yes! We offer three convenient free parking options: 1-hour street parking directly outside, 2-hour parking at the nearby church, or all-day parking at the train station. Your stress-free arrival is guaranteed."
-            },
-            {
-                "question": "Do you speak Italian?",
-                "answer": "Absolutely. Ann is fluent in Italian and has lived in Italy since 2012. Clear communication about your health concerns and treatment needs is essential, and we ensure you feel completely understood throughout your session."
-            },
-            {
-                "question": "What are Ann's qualifications?",
-                "answer": "Ann holds official Thai Ministry of Public Health certification (#680003080) with 570+ documented training hours from Thailand's premier institutions. She's been continuously practicing and studying since 2009, with specialized training in Thai Solution Massage, aromatherapy, and therapeutic techniques."
-            },
-            {
-                "question": "What is Thai Solution Massage?",
-                "answer": "Thai Solution Massage is an ancient therapeutic art using the Benjapakee (Five-Element) system to address muscular, nervous, joint, and energetic imbalances. It follows traditional Sen energy lines, identifying root causes through your body's natural indicators for personalized, effective healing."
-            },
-            {
-                "question": "What should I wear for my treatment?",
-                "answer": "Wear loose, comfortable clothing that allows unrestricted movement. You'll receive treatment in undergarments only (bra removal required for women to ensure optimal therapeutic access). Complimentary slippers are provided before entering the treatment room."
-            }
-        ]
-    }
-    
+		"topper": "FAQ's",
+		"title": "Frequently Asked Questions",
+		"items": [
+			{
+				"question": "Is parking available?",
+				"answer": "Yes! We offer three convenient free parking options: 1-hour street parking directly outside, 2-hour parking at the nearby church, or all-day parking at the train station. Your stress-free arrival is guaranteed."
+			},
+			{
+				"question": "Do you speak Italian?",
+				"answer": "Absolutely. Ann is fluent in Italian and has lived in Italy since 2012. Clear communication about your concerns and treatment needs is essential, and we ensure you feel completely understood throughout your session."
+			},
+			{
+				"question": "What are Ann's qualifications?",
+				"answer": "Ann holds official Thai Ministry of Public Health certification (#680003080) with 570+ documented training hours from Thailand's premier institutions. She's been continuously practicing and studying since 2009, with specialized training in Thai Solution Massage, aromatherapy, and traditional techniques."
+			},
+			{
+				"question": "What is Thai Solution Massage?",
+				"answer": "Thai Solution Massage is an ancient wellness practice using the Benjapakee (Five-Element) system to work on muscular, nervous, joint, and energetic imbalances. It follows traditional Sen energy lines, identifying areas of tension through your body's natural indicators for personalized, effective results."
+			},
+			{
+				"question": "What should I wear for my treatment?",
+				"answer": "Wear loose, comfortable clothing that allows unrestricted movement. You'll receive treatment in undergarments only (bra removal required for women to ensure optimal access). Complimentary slippers are provided before entering the treatment room."
+			}
+		]
+	}
 }

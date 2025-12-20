@@ -1,0 +1,52 @@
+{
+  "landing": {
+    "title": "Termini e Condizioni",
+    "description": "Termini e condizioni per l'utilizzo del sito web e dei servizi di Ann Thai Solution Massage."
+  },
+  "content": {
+    "h1": "Termini e Condizioni",
+    "lastUpdated": "Ultimo Aggiornamento: Dicembre 2025",
+    "acceptance": {
+      "heading": "Accettazione dei Termini",
+      "text": "Accedendo e utilizzando questo sito web, accetti e acconsenti di essere vincolato da questi termini e condizioni. Se non accetti alcuna parte di questi termini, ti preghiamo di non utilizzare il nostro sito web."
+    },
+    "website": {
+      "heading": "Utilizzo del Sito Web",
+      "text": "Questo sito web fornisce informazioni sui nostri servizi di massaggio thailandese e benessere. I contenuti sono esclusivamente a scopo informativo e non costituiscono consulenza medica. Consulta sempre un professionista sanitario prima di iniziare qualsiasi terapia di massaggio, soprattutto se hai condizioni di salute preesistenti."
+    },
+    "bookings": {
+      "heading": "Prenotazioni e Appuntamenti",
+      "intro": "Gli appuntamenti per i servizi di massaggio sono gestiti tramite la nostra piattaforma di prenotazione esterna.",
+      "platform": "Piattaforma di Prenotazione:",
+      "platformTerms": "Effettuando una prenotazione, accetti i termini e le condizioni della nostra piattaforma di prenotazione. Tutte le politiche relative agli appuntamenti, cancellazioni, pagamenti, rimborsi e assenze sono disciplinate dai termini di servizio della piattaforma di prenotazione. Ti preghiamo di esaminare le loro politiche prima di effettuare una prenotazione."
+    },
+    "intellectual": {
+      "heading": "Diritti di Proprietà Intellettuale",
+      "text": "Tutti i contenuti di questo sito web, inclusi ma non limitati a testo, immagini, loghi, grafica, fotografie ed elementi di design, sono di proprietà di Ann Thai Solution Massage o utilizzati con autorizzazione. Non è consentito riprodurre, distribuire, modificare o creare opere derivate da qualsiasi contenuto senza il nostro esplicito consenso scritto. L'uso non autorizzato può violare le leggi sul diritto d'autore, sui marchi registrati e altre leggi applicabili."
+    },
+    "accuracy": {
+      "heading": "Accuratezza delle Informazioni",
+      "text": "Facciamo ogni sforzo per garantire che le informazioni sul nostro sito web siano accurate e aggiornate. Tuttavia, non garantiamo la completezza, l'accuratezza o l'affidabilità di alcun contenuto. Le descrizioni dei servizi, i prezzi, la disponibilità e altri dettagli sono soggetti a modifiche senza preavviso. Ti preghiamo di contattarci direttamente per confermare le informazioni attuali."
+    },
+    "liability": {
+      "heading": "Limitazione di Responsabilità",
+      "text": "Nella massima misura consentita dalla legge italiana, Ann Thai Solution Massage non sarà responsabile per eventuali danni diretti, indiretti, incidentali, consequenziali o punitivi derivanti dall'uso di questo sito web o dei nostri servizi. Ciò include, a titolo esemplificativo ma non esaustivo, danni per perdita di profitti, dati o altre perdite immateriali, anche se siamo stati informati della possibilità di tali danni."
+    },
+    "links": {
+      "heading": "Collegamenti e Servizi di Terze Parti",
+      "text": "Il nostro sito web può contenere collegamenti a siti web di terze parti, inclusa la nostra piattaforma di prenotazione, profili sui social media e altre risorse esterne. Non controlliamo questi siti di terze parti e non siamo responsabili per i loro contenuti, politiche sulla privacy o pratiche. L'utilizzo di siti web di terze parti è a vostro rischio e soggetto ai rispettivi termini e condizioni."
+    },
+    "governing": {
+      "heading": "Legge Applicabile",
+      "text": "Questi termini e condizioni sono regolati e interpretati in conformità con le leggi italiane. Eventuali controversie relative a questi termini saranno soggette alla giurisdizione esclusiva dei tribunali di Varese, Italia."
+    },
+    "changes": {
+      "heading": "Modifiche ai Termini",
+      "text": "Ci riserviamo il diritto di modificare questi termini e condizioni in qualsiasi momento. Le modifiche saranno efficaci immediatamente dopo la pubblicazione su questo sito web. Il tuo uso continuato del sito web dopo eventuali modifiche costituisce accettazione dei termini aggiornati. Ti consigliamo di rivedere periodicamente questi termini."
+    },
+    "contact": {
+      "heading": "Contattaci",
+      "text": "Se hai domande su questi termini e condizioni, ti preghiamo di contattarci:"
+    }
+  }
+}

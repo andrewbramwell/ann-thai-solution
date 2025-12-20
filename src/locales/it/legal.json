@@ -1,0 +1,38 @@
+{
+  "landing": {
+    "title": "Note Legali",
+    "description": "Informazioni legali e dettagli aziendali di Ann Thai Solution Massage."
+  },
+  "content": {
+    "h1": "Note Legali",
+    "company": {
+      "heading": "Informazioni Aziendali",
+      "businessName": "Ragione Sociale:",
+      "address": "Sede Legale:",
+      "vat": "Partita IVA:",
+      "taxCode": "Codice Fiscale:",
+      "rea": "Numero REA:"
+    },
+    "contact": {
+      "heading": "Informazioni di Contatto",
+      "email": "Email:",
+      "phone": "Telefono:"
+    },
+    "ownership": {
+      "heading": "Proprietà Intellettuale",
+      "text": "Tutti i contenuti di questo sito web, inclusi testo, immagini, grafica, loghi ed elementi di design, sono di proprietà di Ann Thai Solution Massage e sono protetti dalle leggi italiane e internazionali sul diritto d'autore. È severamente vietato l'uso, la riproduzione o la distribuzione non autorizzati di qualsiasi materiale presente su questo sito web senza previo consenso scritto."
+    },
+    "liability": {
+      "heading": "Limitazione di Responsabilità",
+      "text": "Pur impegnandoci a garantire l'accuratezza e l'affidabilità delle informazioni presenti su questo sito web, Ann Thai Solution Massage non fornisce alcuna garanzia o dichiarazione in merito alla completezza, accuratezza o disponibilità del sito web o dei suoi contenuti. Non saremo responsabili per eventuali danni derivanti dall'uso o dall'impossibilità di utilizzare questo sito web, inclusi, a titolo esemplificativo ma non esaustivo, danni diretti, indiretti, incidentali o consequenziali."
+    },
+    "links": {
+      "heading": "Collegamenti Esterni",
+      "text": "Questo sito web può contenere collegamenti a siti web di terze parti per vostra comodità. Non controlliamo né approviamo questi siti esterni e non siamo responsabili per i loro contenuti, pratiche sulla privacy o disponibilità. L'accesso ai collegamenti esterni avviene a vostro rischio."
+    },
+    "law": {
+      "heading": "Legge Applicabile e Giurisdizione",
+      "text": "Le presenti note legali e tutte le questioni relative a questo sito web sono regolate dalla legge italiana. Eventuali controversie derivanti dall'uso di questo sito web saranno soggette alla giurisdizione esclusiva dei tribunali di Varese, Italia."
+    }
+  }
+}
