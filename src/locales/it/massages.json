@@ -32,7 +32,7 @@
         "items": [
         {
             "name": "Thai Solution Massage",
-            "description": "Il nostro trattamento distintivo che utilizza il sistema Benjapakee (Cinque Elementi) per lavorare su dolori muscolari, rigidità articolare e tensioni nervose. Trattamento personalizzato per la tua condizione specifica che ripristina l'equilibrio naturale."
+            "description": "Massaggio per lavorare su dolori muscolari, rigidità articolare e tensioni nervose. Trattamento personalizzato per la tua condizione specifica che ripristina l'equilibrio naturale."
         },
         {
             "name": "Thai Rud Sen (con olio)",
@@ -43,8 +43,8 @@
             "description": "Tecnica specializzata di detossificazione che stimola circolazione linfatica e funzione immunitaria. Potenziato con oli erboristici thailandesi premium dalle proprietà antinfiammatorie. Riduce gonfiori e promuove rinnovamento naturale."
         },
         {
-            "name": "Massaggio Hot Stone",
-            "description": "Trattamento lussuoso che combina pietre vulcaniche riscaldate con tecniche di massaggio esperte. Il calore penetra in profondità nei muscoli, rilasciando tensioni croniche mentre promuove un rilassamento profondo. Circolazione e flusso energetico migliorati ripristinano equilibrio naturale e calma interiore."
+            "name": "Massaggio con Pietre di Giada Verde",
+            "description": "Trattamento lussuoso che combina pietre di giada verde riscaldate con tecniche di massaggio esperte. Il calore penetra in profondità nei muscoli, rilasciando tensioni croniche e promuovendo un rilassamento profondo. Migliora circolazione e flusso energetico ripristinando equilibrio naturale e calma interiore."
         }
         ]
     },
@@ -54,19 +54,19 @@
         "items": [
         {
             "name": "Thai Solution Massage",
-            "description": "Seduta estesa che permette lavoro più profondo su condizioni croniche usando il nostro sistema Benjapakee. Trattamento completo che integra rilascio muscolare, mobilizzazione articolare, lavoro sul sistema nervoso e riequilibrio energetico per rinnovamento profondo."
+            "description": "Seduta estesa che permette lavoro più profondo. Trattamento completo che integra rilascio muscolare, mobilizzazione articolare, lavoro sul sistema nervoso e riequilibrio energetico per rinnovamento profondo."
         },
         {
             "name": "Thai Rud Sen (con olio)",
-            "description": "Lussuoso massaggio esteso con olio seguendo le linee energetiche Sen con Jojoba biologico. Tempo extra permette rilassamento più profondo, dissoluzione completa dello stress e ripristino totale dell'equilibrio del sistema nervoso."
+            "description": "Lussuoso massaggio esteso con olio seguendo le linee energetiche con Jojoba biologico. Tempo extra permette rilassamento più profondo, dissoluzione completa dello stress e ripristino totale dell'equilibrio del sistema nervoso."
         },
         {
             "name": "Drenaggio Linfatico",
             "description": "Trattamento detox completo con tempo esteso per stimolazione linfatica di tutto il corpo. La miscela premium di oli erboristici thailandesi migliora circolazione, riduce infiammazione, rinforza immunità e promuove rinnovamento completo del sistema."
         },
         {
-            "name": "Massaggio Hot Stone",
-            "description": "Trattamento lussuoso che combina pietre vulcaniche riscaldate con tecniche di massaggio esperte. Il calore penetra in profondità nei muscoli, rilasciando tensioni croniche mentre promuove un rilassamento profondo. Circolazione e flusso energetico migliorati ripristinano equilibrio naturale e calma interiore."
+            "name": "Massaggio con Pietre di Giada Verde",
+            "description": "Trattamento lussuoso che combina pietre di giada verde riscaldate con tecniche di massaggio esperte. Il calore penetra in profondità nei muscoli, rilasciando tensioni croniche e promuovendo un rilassamento profondo. Migliora circolazione e flusso energetico ripristinando equilibrio naturale e calma interiore."
         }
         ]
     },
@@ -87,8 +87,8 @@
             "description": "Detossificazione completa di tutto il corpo e supporto del sistema immunitario. Seduta estesa permette stimolazione linfatica approfondita, potenziata con oli erboristici thailandesi. Trattamento supremo per infiammazione, gonfiori e ripristino del benessere sistemico."
         },
         {
-            "name": "Massaggio Hot Stone",
-            "description": "Trattamento lussuoso che combina pietre vulcaniche riscaldate con tecniche di massaggio esperte. Il calore penetra in profondità nei muscoli, rilasciando tensioni croniche mentre promuove un rilassamento profondo. Circolazione e flusso energetico migliorati ripristinano equilibrio naturale e calma interiore."
+            "name": "Massaggio con Pietre di Giada Verde",
+            "description": "Trattamento lussuoso che combina pietre di giada verde riscaldate con tecniche di massaggio esperte. Il calore penetra in profondità nei muscoli, rilasciando tensioni croniche e promuovendo un rilassamento profondo. Migliora circolazione e flusso energetico ripristinando equilibrio naturale e calma interiore."
         }
     ]
   }
