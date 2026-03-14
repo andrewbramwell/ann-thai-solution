@@ -8,28 +8,52 @@
 
     "pricing1": {
         "topper": "Tariffe",
-        "title": "Massaggi da 15 Minuti",
+        "title": "Massaggi da 45 Minuti",
         "items": [
         {
             "name": "Massaggio Collo",
             "description": "Trattamento mirato da seduti per tensioni croniche al collo, rigidità alle spalle e dolore alla parte alta della schiena. Perfetto per sollievo rapido da tensioni cervicali lavorative e mal di testa da stress."
+        },
+        {
+            "name": "Massaggio Gambe",
+            "description": "Un trattamento mirato per le gambe che utilizza pressioni profonde e tecniche dinamiche. Ideale per chi è attivo, favorisce il recupero e la fluidità del movimento. Disponibile con o senza l'uso di oli nutrienti."
         }
         ]
     },
     "pricing2": {
         "topper": "Tariffe",
-        "title": "Massaggi da 30 Minuti",
+        "title": "Massaggi da 60 Minuti",
         "items": [
         {
-            "name": "Massaggio Collo",
-            "description": "Trattamento completo da seduti per tensioni della colonna cervicale, emicranie e dolori alle spalle. Tecniche specializzate rilasciano stress profondo e ripristinano la mobilità della parte superiore del corpo."
+            "name": "Aromatherapy Massage",
+            "description": "Un massaggio avvolgente su tutto il corpo con miscele di oli essenziali (Relax, Scioglimuscoli o Sonno Profondo). Ideale per allentare le tensioni, migliorare il riposo e ritrovare l'equilibrio interiore."
+        },
+        {
+            "name": "Thai Solution Massage",
+            "description": "Massaggio per lavorare su dolori muscolari, rigidità articolare e tensioni nervose. Trattamento personalizzato per la tua condizione specifica che ripristina l'equilibrio naturale."
+        },
+        {
+            "name": "Thai Rud Sen (con olio)",
+            "description": "Trattamento profondamente calmante ideale per riduzione dello stress, riequilibrio del sistema nervoso e rilassamento completo."
+        },
+        {
+            "name": "Drenaggio Linfatico",
+            "description": "Tecnica specializzata di detossificazione che stimola circolazione linfatica e funzione immunitaria. Potenziato con oli erboristici thailandesi premium dalle proprietà antinfiammatorie. Riduce gonfiori e promuove rinnovamento naturale."
+        },
+        {
+            "name": "Massaggio con Pietre di Giada Verde",
+            "description": "Trattamento lussuoso che combina pietre di giada verde riscaldate con tecniche di massaggio esperte. Il calore penetra in profondità nei muscoli, rilasciando tensioni croniche e promuovendo un rilassamento profondo. Migliora circolazione e flusso energetico ripristinando equilibrio naturale e calma interiore."
         }
         ]
     },
     "pricing3": {
         "topper": "Tariffe",
-        "title": "Massaggi da 60 Minuti",
+        "title": "Massaggi da 90 Minuti",
         "items": [
+        {
+            "name": "Aromatherapy Massage",
+            "description": "Un massaggio avvolgente su tutto il corpo con miscele di oli essenziali (Relax, Scioglimuscoli o Sonno Profondo). Ideale per allentare le tensioni, migliorare il riposo e ritrovare l'equilibrio interiore."
+        },
         {
             "name": "Thai Solution Massage",
             "description": "Massaggio per lavorare su dolori muscolari, rigidità articolare e tensioni nervose. Trattamento personalizzato per la tua condizione specifica che ripristina l'equilibrio naturale."
@@ -50,8 +74,12 @@
     },
     "pricing4": {
         "topper": "Tariffe",
-        "title": "Massaggi da 90 Minuti",
+        "title": "Massaggi da 120 Minuti",
         "items": [
+        {
+            "name": "Aromatherapy Massage",
+            "description": "Un massaggio avvolgente su tutto il corpo con miscele di oli essenziali (Relax, Scioglimuscoli o Sonno Profondo). Ideale per allentare le tensioni, migliorare il riposo e ritrovare l'equilibrio interiore."
+        },
         {
             "name": "Thai Solution Massage",
             "description": "Seduta estesa che permette lavoro più profondo. Trattamento completo che integra rilascio muscolare, mobilizzazione articolare, lavoro sul sistema nervoso e riequilibrio energetico per rinnovamento profondo."

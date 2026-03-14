@@ -4,7 +4,7 @@ import i18n from "@astrolicious/i18n";
 import sitemap from "@astrojs/sitemap";
 
 export default defineConfig({
-  site: "https://annthaisolutionmassage.com/", // update with your Italian domain
+  site: "https://annthaisolutionmassage.com/",
   integrations: [
     icon(),
     i18n({
@@ -14,16 +14,9 @@ export default defineConfig({
         data: true,
         paths: true,
       },
-      // used to localize the routes
-      pages: {
-        "/about": {
-          en: "/about",
-          // it: "/chi-siamo", // optional: use Italian slug
-        },
-        "/massages": {
-          en: "/massages",
-          // it: "/massaggi", // optional: use Italian slug
-        }
+      // Prefix only the non-default locale (English)
+      routing: {
+        prefixDefaultLocale: false, // Italian won't have /it/ prefix
       },
     }),
     sitemap({
@@ -31,7 +24,7 @@ export default defineConfig({
         defaultLocale: 'it',
         locales: {
           it: 'it-IT',
-          en: 'en-US',
+          en: 'en-GB', // or en-US
         },
       },
     }),

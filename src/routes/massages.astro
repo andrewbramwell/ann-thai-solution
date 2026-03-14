@@ -37,7 +37,7 @@ const optimizedMassageImage4 = await getOptimizedImage(massageImage4);
 <Landing title={t("massages:landing")} image={optimizedImage}/>
 
 <!-- ============================================ -->
-<!--            15 Minute Massages                -->
+<!--            45 Minute Massages                -->
 <!-- ============================================ -->
 
 <section id="pricing-995">
@@ -50,42 +50,19 @@ const optimizedMassageImage4 = await getOptimizedImage(massageImage4);
                 <li class="cs-menu-item">
                     <h3 class="cs-h3">
                         <span class="cs-header">{t("massages:pricing1.items.0.name")}</span>
-                        <span class="cs-price">€20</span>
+                        <span class="cs-price">€50</span>
                     </h3>
                     <p class="cs-menu-text">
                         {t("massages:pricing1.items.0.description")}
                     </p>
                 </li>
-            </ul>
-        </div>
-        <picture class="cs-picture">
-            <!--Mobile Image-->
-            <source media="(max-width: 600px)" srcset={optimizedMassageImage1.src}>
-            <!--Tablet and above Image-->
-            <source media="(min-width: 601px)" srcset={optimizedMassageImage1.src}>
-            <img loading="lazy" decoding="async" src={optimizedMassageImage1.src} alt="massage therapy" width={optimizedMassageImage1.attributes.width} height={optimizedMassageImage1.attributes.height}>
-        </picture>
-    </div>
-</section>
-
-<!-- ============================================ -->
-<!--            30 Minute Massages                -->
-<!-- ============================================ -->
-
-<section id="pricing-r-995">
-    <div class="cs-container">
-        <div class="cs-content">
-            <span class="cs-topper">{t("massages:pricing2.topper")}</span>
-            <h2 class="cs-title">{t("massages:pricing2.title")}</h2>
-            <!--Menu-->
-            <ul class="cs-menu-group">
                 <li class="cs-menu-item">
                     <h3 class="cs-h3">
-                        <span class="cs-header">{t("massages:pricing2.items.0.name")}</span>
-                        <span class="cs-price"><s>€40</s> €35</span>
+                        <span class="cs-header">{t("massages:pricing1.items.1.name")}</span>
+                        <span class="cs-price">€50</span>
                     </h3>
                     <p class="cs-menu-text">
-                        {t("massages:pricing2.items.0.description")}
+                        {t("massages:pricing1.items.1.description")}
                     </p>
                 </li>
             </ul>
@@ -104,6 +81,74 @@ const optimizedMassageImage4 = await getOptimizedImage(massageImage4);
 <!--            60 Minute Massages                -->
 <!-- ============================================ -->
 
+<section id="pricing-r-995">
+    <div class="cs-container">
+        <div class="cs-content">
+            <span class="cs-topper">{t("massages:pricing2.topper")}</span>
+            <h2 class="cs-title">{t("massages:pricing2.title")}</h2>
+            <!--Menu-->
+            <ul class="cs-menu-group">
+                <li class="cs-menu-item">
+                    <h3 class="cs-h3">
+                        <span class="cs-header">{t("massages:pricing2.items.0.name")}</span>
+                        <span class="cs-price">€70</span>
+                    </h3>
+                    <p class="cs-menu-text">
+                        {t("massages:pricing2.items.0.description")}
+                    </p>
+                </li>
+                <li class="cs-menu-item">
+                    <h3 class="cs-h3">
+                        <span class="cs-header">{t("massages:pricing2.items.1.name")}</span>
+                        <span class="cs-price">€80</span>
+                    </h3>
+                    <p class="cs-menu-text">
+                        {t("massages:pricing2.items.1.description")}
+                    </p>
+                </li>
+                <li class="cs-menu-item">
+                    <h3 class="cs-h3">
+                        <span class="cs-header">{t("massages:pricing2.items.2.name")}</span>
+                        <span class="cs-price">€75</span>
+                    </h3>
+                    <p class="cs-menu-text">
+                        {t("massages:pricing2.items.2.description")}
+                    </p>
+                </li>
+                <li class="cs-menu-item">
+                    <h3 class="cs-h3">
+                        <span class="cs-header">{t("massages:pricing2.items.3.name")}</span>
+                        <span class="cs-price">€65</span>
+                    </h3>
+                    <p class="cs-menu-text">
+                        {t("massages:pricing2.items.3.description")}
+                    </p>
+                </li>
+                <li class="cs-menu-item">
+                    <h3 class="cs-h3">
+                        <span class="cs-header">{t("massages:pricing2.items.4.name")}</span>
+                        <span class="cs-price">€75</span>
+                    </h3>
+                    <p class="cs-menu-text">
+                        {t("massages:pricing2.items.4.description")}
+                    </p>
+                </li>
+            </ul>
+        </div>
+        <picture class="cs-picture">
+            <!--Mobile Image-->
+            <source media="(max-width: 600px)" srcset={optimizedMassageImage1.src}>
+            <!--Tablet and above Image-->
+            <source media="(min-width: 601px)" srcset={optimizedMassageImage1.src}>
+            <img loading="lazy" decoding="async" src={optimizedMassageImage1.src} alt="massage therapy" width={optimizedMassageImage1.attributes.width} height={optimizedMassageImage1.attributes.height}>
+        </picture>
+    </div>
+</section>
+
+<!-- ============================================ -->
+<!--            90 Minute Massages                -->
+<!-- ============================================ -->
+
 <section id="pricing-995">
     <div class="cs-container">
         <div class="cs-content">
@@ -114,7 +159,7 @@ const optimizedMassageImage4 = await getOptimizedImage(massageImage4);
                 <li class="cs-menu-item">
                     <h3 class="cs-h3">
                         <span class="cs-header">{t("massages:pricing3.items.0.name")}</span>
-                        <span class="cs-price"><s>€75</s> €65</span>
+                        <span class="cs-price">€100</span>
                     </h3>
                     <p class="cs-menu-text">
                         {t("massages:pricing3.items.0.description")}
@@ -123,7 +168,7 @@ const optimizedMassageImage4 = await getOptimizedImage(massageImage4);
                 <li class="cs-menu-item">
                     <h3 class="cs-h3">
                         <span class="cs-header">{t("massages:pricing3.items.1.name")}</span>
-                        <span class="cs-price"><s>€65</s> €55</span>
+                        <span class="cs-price">€110</span>
                     </h3>
                     <p class="cs-menu-text">
                         {t("massages:pricing3.items.1.description")}
@@ -132,7 +177,7 @@ const optimizedMassageImage4 = await getOptimizedImage(massageImage4);
                 <li class="cs-menu-item">
                     <h3 class="cs-h3">
                         <span class="cs-header">{t("massages:pricing3.items.2.name")}</span>
-                        <span class="cs-price"><s>€70</s> €60</span>
+                        <span class="cs-price">€105</span>
                     </h3>
                     <p class="cs-menu-text">
                         {t("massages:pricing3.items.2.description")}
@@ -141,10 +186,19 @@ const optimizedMassageImage4 = await getOptimizedImage(massageImage4);
                 <li class="cs-menu-item">
                     <h3 class="cs-h3">
                         <span class="cs-header">{t("massages:pricing3.items.3.name")}</span>
-                        <span class="cs-price"><s>€80</s> €70</span>
+                        <span class="cs-price">€95</span>
                     </h3>
                     <p class="cs-menu-text">
                         {t("massages:pricing3.items.3.description")}
+                    </p>
+                </li>
+                 <li class="cs-menu-item">
+                    <h3 class="cs-h3">
+                        <span class="cs-header">{t("massages:pricing3.items.4.name")}</span>
+                        <span class="cs-price">€105</span>
+                    </h3>
+                    <p class="cs-menu-text">
+                        {t("massages:pricing3.items.4.description")}
                     </p>
                 </li>
             </ul>
@@ -160,7 +214,7 @@ const optimizedMassageImage4 = await getOptimizedImage(massageImage4);
 </section>
 
 <!-- ============================================ -->
-<!--            90 Minute Massages                -->
+<!--            120 Minute Massages                -->
 <!-- ============================================ -->
 
 <section id="pricing-r-995">
@@ -173,7 +227,7 @@ const optimizedMassageImage4 = await getOptimizedImage(massageImage4);
                 <li class="cs-menu-item">
                     <h3 class="cs-h3">
                         <span class="cs-header">{t("massages:pricing4.items.0.name")}</span>
-                        <span class="cs-price"><s>€105</s> €95</span>
+                        <span class="cs-price">€120</span>
                     </h3>
                     <p class="cs-menu-text">
                         {t("massages:pricing4.items.0.description")}
@@ -182,7 +236,7 @@ const optimizedMassageImage4 = await getOptimizedImage(massageImage4);
                 <li class="cs-menu-item">
                     <h3 class="cs-h3">
                         <span class="cs-header">{t("massages:pricing4.items.1.name")}</span>
-                        <span class="cs-price"><s>€95</s> €85</span>
+                        <span class="cs-price">€130</span>
                     </h3>
                     <p class="cs-menu-text">
                         {t("massages:pricing4.items.1.description")}
@@ -191,7 +245,7 @@ const optimizedMassageImage4 = await getOptimizedImage(massageImage4);
                 <li class="cs-menu-item">
                     <h3 class="cs-h3">
                         <span class="cs-header">{t("massages:pricing4.items.2.name")}</span>
-                        <span class="cs-price"><s>€100</s> €90</span>
+                        <span class="cs-price">€125</span>
                     </h3>
                     <p class="cs-menu-text">
                         {t("massages:pricing4.items.2.description")}
@@ -200,10 +254,19 @@ const optimizedMassageImage4 = await getOptimizedImage(massageImage4);
                 <li class="cs-menu-item">
                     <h3 class="cs-h3">
                         <span class="cs-header">{t("massages:pricing4.items.3.name")}</span>
-                        <span class="cs-price"><s>€105</s> €90</span>
+                        <span class="cs-price">€115</span>
                     </h3>
                     <p class="cs-menu-text">
                         {t("massages:pricing4.items.3.description")}
+                    </p>
+                </li>
+                <li class="cs-menu-item">
+                    <h3 class="cs-h3">
+                        <span class="cs-header">{t("massages:pricing4.items.4.name")}</span>
+                        <span class="cs-price">€125</span>
+                    </h3>
+                    <p class="cs-menu-text">
+                        {t("massages:pricing4.items.4.description")}
                     </p>
                 </li>
             </ul>
@@ -214,65 +277,6 @@ const optimizedMassageImage4 = await getOptimizedImage(massageImage4);
             <!--Tablet and above Image-->
             <source media="(min-width: 601px)" srcset={optimizedMassageImage3.src}>
             <img loading="lazy" decoding="async" src={optimizedMassageImage3.src} alt="massage therapy" width={optimizedMassageImage3.attributes.width} height={optimizedMassageImage3.attributes.height}>
-        </picture>
-    </div>
-</section>
-
-<!-- ============================================ -->
-<!--            120 Minute Massages               -->
-<!-- ============================================ -->
-
-<section id="pricing-995">
-    <div class="cs-container">
-        <div class="cs-content">
-            <span class="cs-topper">{t("massages:pricing5.topper")}</span>
-            <h2 class="cs-title">{t("massages:pricing5.title")}</h2>
-            <!--Menu-->
-            <ul class="cs-menu-group">
-                <li class="cs-menu-item">
-                    <h3 class="cs-h3">
-                        <span class="cs-header">{t("massages:pricing5.items.0.name")}</span>
-                        <span class="cs-price"><s>€125</s> €110</span>
-                    </h3>
-                    <p class="cs-menu-text">
-                        {t("massages:pricing5.items.0.description")}
-                    </p>
-                </li>
-                <li class="cs-menu-item">
-                    <h3 class="cs-h3">
-                        <span class="cs-header">{t("massages:pricing5.items.1.name")}</span>
-                        <span class="cs-price"><s>€115</s> €100</span>
-                    </h3>
-                    <p class="cs-menu-text">
-                        {t("massages:pricing5.items.1.description")}
-                    </p>
-                </li>
-                <li class="cs-menu-item">
-                    <h3 class="cs-h3">
-                        <span class="cs-header">{t("massages:pricing5.items.2.name")}</span>
-                        <span class="cs-price"><s>€120</s> €110</span>
-                    </h3>
-                    <p class="cs-menu-text">
-                        {t("massages:pricing5.items.2.description")}
-                    </p>
-                </li>
-                <li class="cs-menu-item">
-                    <h3 class="cs-h3">
-                        <span class="cs-header">{t("massages:pricing5.items.3.name")}</span>
-                        <span class="cs-price"><s>€125</s> €105</span>
-                    </h3>
-                    <p class="cs-menu-text">
-                        {t("massages:pricing5.items.3.description")}
-                    </p>
-                </li>
-            </ul>
-        </div>
-       <picture class="cs-picture">
-            <!--Mobile Image-->
-            <source media="(max-width: 600px)" srcset={optimizedMassageImage4.src}>
-            <!--Tablet and above Image-->
-            <source media="(min-width: 601px)" srcset={optimizedMassageImage4.src}>
-            <img loading="lazy" decoding="async" src={optimizedMassageImage4.src} alt="massage therapy" width={optimizedMassageImage4.attributes.width} height={optimizedMassageImage4.attributes.height}>
         </picture>
     </div>
 </section>

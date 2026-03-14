@@ -8,28 +8,26 @@
 
     "pricing1": {
         "topper": "Pricing",
-        "title": "15 Minute Massages",
+        "title": "45 Minute Massages",
         "items": [
         {
             "name": "Neck Massage",
+            "description": "Focused seated treatment targeting chronic neck tension, shoulder stiffness, and upper back pain. Perfect for quick relief from work-related cervical strain and tension headaches."
+        },
+        {
+            "name": "Leg Massage – Deep Tissue & Sports Therapy for Lower Body",
             "description": "Focused seated treatment targeting chronic neck tension, shoulder stiffness, and upper back pain. Perfect for quick relief from work-related cervical strain and tension headaches."
         }
         ]
     },
     "pricing2": {
         "topper": "Pricing",
-        "title": "30 Minute Massages",
-        "items": [
-        {
-            "name": "Neck Massage",
-            "description": "Comprehensive seated treatment addressing cervical spine tension, migraines, and shoulder pain. Specialized techniques release deep-seated stress and restore upper body mobility."
-        }
-        ]
-    },
-    "pricing3": {
-        "topper": "Pricing",
         "title": "60 Minute Massages",
         "items": [
+        {
+            "name": "Aromatherapy Massage",
+            "description": "A soothing full-body massage using custom essential oil blends (Relaxation, Muscle Release, or Deep Sleep). This treatment relieves stress, improves sleep, and restores emotional balance."
+        },
         {
             "name": "Thai Solution Massage",
             "description": "Our signature treatment using the Benjapakee (Five-Element) system to work on muscular pain, joint stiffness, and nerve tension. Personalized treatment addressing your specific condition and restoring natural balance."
@@ -48,10 +46,14 @@
         }
         ]
     },
-    "pricing4": {
+    "pricing3": {
         "topper": "Pricing",
         "title": "90 Minute Massages",
         "items": [
+        {
+            "name": "Aromatherapy Massage",
+            "description": "A soothing full-body massage using custom essential oil blends (Relaxation, Muscle Release, or Deep Sleep). This treatment relieves stress, improves sleep, and restores emotional balance."
+        },
         {
             "name": "Thai Solution Massage",
             "description": "Extended session allowing deeper work on chronic conditions using our Benjapakee system. Comprehensive treatment integrating muscular release, joint mobilization, work on the nervous system, and energetic balancing for profound renewal."
@@ -70,26 +72,30 @@
         }
         ]
     },
-    "pricing5": {
+    "pricing4": {
         "topper": "Pricing",
-        "title": "120 Minute Massages",
+        "title": "90 Minute Massages",
         "items": [
+         {
+            "name": "Aromatherapy Massage",
+            "description": "A soothing full-body massage using custom essential oil blends (Relaxation, Muscle Release, or Deep Sleep). This treatment relieves stress, improves sleep, and restores emotional balance."
+        },
         {
             "name": "Thai Solution Massage",
-            "description": "Complete experience addressing complex or multiple conditions. Full Benjapakee integration working on muscular, skeletal, nervous, and energetic systems. Maximum time for assessment, treatment, and complete body restoration."
+            "description": "Extended session allowing deeper work on chronic conditions using our Benjapakee system. Comprehensive treatment integrating muscular release, joint mobilization, work on the nervous system, and energetic balancing for profound renewal."
         },
         {
             "name": "Thai Rud Sen (oil)",
-            "description": "Complete restorative journey along all major energy meridians with organic oils. Maximum relaxation and wellness benefit. Perfect for severe stress, chronic tension, or when you need profound rejuvenation."
+            "description": "Luxurious extended oil massage following Sen energy lines with organic Jojoba. Extra time allows deeper relaxation, complete stress dissolution, and thorough restoration of your nervous system equilibrium."
         },
         {
             "name": "Lymphatic Drainage",
-            "description": "Complete full-body detoxification and immune system support. Extended session allows thorough lymphatic stimulation, enhanced with Thai herbal oils. Ultimate treatment for inflammation, swelling, and system-wide wellness restoration."
+            "description": "Comprehensive detox treatment with extended time for full-body lymphatic stimulation. Premium Thai herbal oil blend enhances circulation, reduces inflammation, supports immunity, and promotes complete system renewal."
         },
         {
             "name": "Green Jade Stone Massage",
             "description": "Luxurious treatment combining heated green jade stones with expert massage techniques. The warmth penetrates deep into muscles, releasing chronic tension while promoting profound relaxation. Enhanced circulation and energy flow restore natural balance and inner calm."
         }
-    ]
-  }
+        ]
+    }
 }
