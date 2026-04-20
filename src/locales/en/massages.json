@@ -8,7 +8,7 @@
 
     "pricing1": {
         "topper": "Pricing",
-        "title": "45 Minute Massages",
+        "title": " Minute Massages",
         "items": [
         {
             "name": "Neck Massage",
@@ -43,6 +43,14 @@
         {
             "name": "Green Jade Stone Massage",
             "description": "Luxurious treatment combining heated green jade stones with expert massage techniques. The warmth penetrates deep into muscles, releasing chronic tension while promoting profound relaxation. Enhanced circulation and energy flow restore natural balance and inner calm."
+        },
+        {
+            "name": "Neck Massage",
+            "description": "Focused seated treatment targeting chronic neck tension, shoulder stiffness, and upper back pain. Perfect for quick relief from work-related cervical strain and tension headaches."
+        },
+        {
+            "name": "Leg Massage – Deep Tissue & Sports Therapy for Lower Body",
+            "description": "Focused seated treatment targeting chronic neck tension, shoulder stiffness, and upper back pain. Perfect for quick relief from work-related cervical strain and tension headaches."
         }
         ]
     },
@@ -74,7 +82,7 @@
     },
     "pricing4": {
         "topper": "Pricing",
-        "title": "90 Minute Massages",
+        "title": "120 Minute Massages",
         "items": [
          {
             "name": "Aromatherapy Massage",
