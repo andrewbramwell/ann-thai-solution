@@ -5,6 +5,11 @@
         "title": "Authentic Thai Massage",
         "description": "Experience traditional treatments designed to restore balance, relieve tension, and rejuvenate your body and mind."
     },
+    "tiles": {
+    "topper": "Our Services",
+    "title": "Professional Massage & Spa Treatments",
+    "text": "Choose from our range of expertly delivered treatments designed to relax, rejuvenate, and restore your body and mind. Each service is tailored to your individual needs."
+    },
 
     "pricing1": {
         "topper": "Pricing",

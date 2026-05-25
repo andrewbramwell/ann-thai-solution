@@ -1,0 +1,159 @@
+---
+import client from "@data/client.json";
+---
+
+<!-- ============================================ -->
+<!--              Promo Popup                     -->
+<!-- ============================================ -->
+
+<div id="promo-popup" aria-modal="true" role="dialog" aria-label="Promotional offer">
+    <div class="pp-overlay"></div>
+    <div class="pp-card">
+        <button class="pp-close" aria-label="Close promotion">
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <line x1="18" y1="6" x2="6" y2="18"></line>
+                <line x1="6" y1="6" x2="18" y2="18"></line>
+            </svg>
+        </button>
+        <a href={client.bookingLink} target="_blank" rel="noopener" class="pp-link" aria-label="Book now — view our special offer">
+            <img
+                src="/assets/images/popup.webp"
+                alt="Special offer — click to book your massage"
+                width="600"
+                height="600"
+                loading="eager"
+                decoding="async"
+                class="pp-image"
+            />
+        </a>
+    </div>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const popup = document.getElementById('promo-popup');
+        if (!popup) return;
+
+        // Show once per browser session
+        if (sessionStorage.getItem('promoSeen')) return;
+
+        const overlay = popup.querySelector('.pp-overlay') as HTMLElement;
+        const closeBtn = popup.querySelector('.pp-close') as HTMLButtonElement;
+
+        // Reveal after a short delay
+        setTimeout(() => {
+            popup.classList.add('pp-visible');
+            document.body.classList.add('pp-open');
+        }, 1500);
+
+        function closePopup() {
+            popup!.classList.remove('pp-visible');
+            document.body.classList.remove('pp-open');
+            sessionStorage.setItem('promoSeen', 'true');
+        }
+
+        closeBtn.addEventListener('click', closePopup);
+        overlay.addEventListener('click', closePopup);
+
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && popup!.classList.contains('pp-visible')) {
+                closePopup();
+            }
+        });
+    });
+</script>
+
+<style lang="less">
+#promo-popup {
+    display: none;
+    position: fixed;
+    inset: 0;
+    z-index: 2000;
+    align-items: center;
+    justify-content: center;
+
+    &.pp-visible {
+        display: flex;
+    }
+
+    .pp-overlay {
+        position: absolute;
+        inset: 0;
+        background: rgba(0, 0, 0, 0.65);
+        animation: pp-fade-in 0.35s ease forwards;
+        cursor: pointer;
+    }
+
+    .pp-card {
+        position: relative;
+        z-index: 1;
+        width: 90vw;
+        max-width: 34rem;
+        border-radius: 0.75rem;
+        overflow: hidden;
+        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.45);
+        animation: pp-slide-up 0.4s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+    }
+
+    .pp-close {
+        position: absolute;
+        top: 0.625rem;
+        right: 0.625rem;
+        z-index: 2;
+        width: 2rem;
+        height: 2rem;
+        padding: 0;
+        border: none;
+        border-radius: 50%;
+        background: rgba(0, 0, 0, 0.55);
+        color: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        transition: background 0.2s, transform 0.2s;
+
+        &:hover {
+            background: rgba(0, 0, 0, 0.85);
+            transform: rotate(90deg);
+        }
+    }
+
+    .pp-link {
+        display: block;
+        line-height: 0; // removes gap under inline img
+    }
+
+    .pp-image {
+        width: 100%;
+        height: auto;
+        display: block;
+        transition: opacity 0.2s;
+
+        &:hover {
+            opacity: 0.92;
+        }
+    }
+}
+
+// Prevent scroll while popup is open
+:global(body.pp-open) {
+    overflow: hidden;
+}
+
+@keyframes pp-fade-in {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+@keyframes pp-slide-up {
+    from {
+        opacity: 0;
+        transform: translateY(2.5rem) scale(0.95);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+}
+</style>

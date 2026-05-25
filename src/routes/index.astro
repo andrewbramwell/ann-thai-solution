@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
 import CTA from "@components/CTA.astro";
+import PromoPopup from "@components/PromoPopup.astro";
 import { getLocalePath, t } from "i18n:astro";
 import { getOptimizedImage } from "@utils/utils";
 import client from "@data/client.json";
@@ -497,6 +498,7 @@ for (const item of faqItems) {
 	
 
 	<CTA />
+	<PromoPopup />
 </BaseLayout>
 
 <style lang="less">
