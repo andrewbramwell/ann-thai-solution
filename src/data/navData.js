@@ -1,3 +1,5 @@
+import client from "./client.json";
+
 const navData = [
   {
     key: "home",
@@ -12,6 +14,12 @@ const navData = [
   {
     key: "massages",
     url: "/massages",
+    children: []
+  },
+  {
+    key: "giftVoucher",
+    url: client.giftVoucher,
+    external: true,
     children: []
   },
   {

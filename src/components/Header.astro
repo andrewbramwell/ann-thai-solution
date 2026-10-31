@@ -64,7 +64,9 @@ import Settings from "./TemplateComponents/Settings.astro";
                 ) : (
                   // If entry does not have children in navData.json, create an anchor
                   <a
-                    href={getLocalePath(entry.url)}
+                    href={entry.external ? entry.url : getLocalePath(entry.url)}
+                    target={entry.external ? "_blank" : undefined}
+                    rel={entry.external ? "noopener" : undefined}
                     class:list={[
                       "cs-li-link",
                       {
